@@ -1,0 +1,3 @@
+export function SrMound(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20.762 24.045H3.238a3.21 3.21 0 0 1-2.769-1.567 3.23 3.23 0 0 1-.093-3.189l3.734-7.391C5.623 8.904 8.646 7.045 12 7.045s6.377 1.859 7.89 4.853l3.738 7.398c.53 1 .497 2.196-.097 3.182a3.21 3.21 0 0 1-2.769 1.567" /></svg>;
+}

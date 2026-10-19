@@ -1,0 +1,3 @@
+export function RrWaffle(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0m0 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10m7-8h-3v-4h3a1 1 0 0 0 0-2h-3V5a1 1 0 0 0-2 0v3h-4V5a1 1 0 0 0-2 0v3H5a1 1 0 0 0 0 2h3v4H5a1 1 0 0 0 0 2h3v3a1 1 0 0 0 2 0v-3h4v3a1 1 0 0 0 2 0v-3h3a1 1 0 0 0 0-2m-9 0v-4h4v4z" /></svg>;
+}

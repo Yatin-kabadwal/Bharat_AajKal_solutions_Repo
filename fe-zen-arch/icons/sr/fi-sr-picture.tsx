@@ -1,0 +1,3 @@
+export function SrPicture(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M11.122 12.536a3 3 0 0 0-4.244 0l-6.84 6.84A4.99 4.99 0 0 0 5 24h14a4.97 4.97 0 0 0 2.753-.833Z" /><circle cx={18} cy={6} r={2} /><path d="M19 0H5a5.006 5.006 0 0 0-5 5v11.586l5.464-5.464a5 5 0 0 1 7.072 0l10.631 10.631A4.97 4.97 0 0 0 24 19V5a5.006 5.006 0 0 0-5-5m-1 10a4 4 0 1 1 4-4 4 4 0 0 1-4 4" /></svg>;
+}

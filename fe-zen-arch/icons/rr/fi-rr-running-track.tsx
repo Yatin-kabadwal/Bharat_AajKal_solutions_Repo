@@ -1,0 +1,3 @@
+export function RrRunningTrack(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M16 4H8c-4.411 0-8 3.589-8 8s3.589 8 8 8h8c4.411 0 8-3.589 8-8s-3.589-8-8-8m-3 4V6h2v2zm3 2c1.103 0 2 .897 2 2s-.897 2-2 2H8c-1.103 0-2-.897-2-2s.897-2 2-2zm0 8H8c-3.309 0-6-2.691-6-6s2.691-6 6-6h3v2H8c-2.206 0-4 1.794-4 4s1.794 4 4 4h8c2.206 0 4-1.794 4-4 0-1.858-1.28-3.411-3-3.858V6.09c2.833.478 5 2.942 5 5.91 0 3.309-2.691 6-6 6" /></svg>;
+}

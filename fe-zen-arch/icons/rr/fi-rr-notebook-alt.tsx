@@ -1,0 +1,3 @@
+export function RrNotebookAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M18 0H8C5.95 0 4.19 1.24 3.42 3H2c-.55 0-1 .45-1 1s.45 1 1 1h1v2H2c-.55 0-1 .45-1 1s.45 1 1 1h1v2H2c-.55 0-1 .45-1 1s.45 1 1 1h1v2H2c-.55 0-1 .45-1 1s.45 1 1 1h1v2H2c-.55 0-1 .45-1 1s.45 1 1 1h1.42c.77 1.76 2.54 3 4.58 3h10c2.76 0 5-2.24 5-5V5c0-2.76-2.24-5-5-5M5 19V5c0-1.65 1.35-3 3-3v20c-1.65 0-3-1.35-3-3m16 0c0 1.65-1.35 3-3 3h-8V2h8c1.65 0 3 1.35 3 3z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrCalendars(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 2V1a1 1 0 1 0-2 0v1h-6V1a1 1 0 1 0-2 0v1C6.243 2 4 4.243 4 7v8c0 2.757 2.243 5 5 5h10c2.757 0 5-2.243 5-5V7c0-2.757-2.243-5-5-5m3 13c0 1.654-1.346 3-3 3H9c-1.654 0-3-1.346-3-3V9h16zM6 7c0-1.654 1.346-3 3-3h10c1.654 0 3 1.346 3 3zm14 16a1 1 0 0 1-1 1H5c-2.757 0-5-2.243-5-5V8a1 1 0 1 1 2 0v11c0 1.654 1.346 3 3 3h14a1 1 0 0 1 1 1" /></svg>;
+}

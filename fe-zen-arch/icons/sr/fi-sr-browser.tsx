@@ -1,0 +1,3 @@
+export function SrBrowser(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M0 9v9a5.006 5.006 0 0 0 5 5h14a5.006 5.006 0 0 0 5-5V9zm14 10H6a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2m4-4H6a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2m6-8V6a5.006 5.006 0 0 0-5-5H5a5.006 5.006 0 0 0-5 5v1zM10 3a1 1 0 1 1-1 1 1 1 0 0 1 1-1M7 3a1 1 0 1 1-1 1 1 1 0 0 1 1-1M4 3a1 1 0 1 1-1 1 1 1 0 0 1 1-1" /></svg>;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ui",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@floating-ui/react": "catalog:",
+    "chart.js": "catalog:",
+    "class-variance-authority": "catalog:",
+    "clsx": "catalog:",
+    "icons": "workspace:^",
+    "react-chartjs-2": "catalog:",
+    "react-hook-form": "catalog:",
+    "zustand": "catalog:"
+  }
+}

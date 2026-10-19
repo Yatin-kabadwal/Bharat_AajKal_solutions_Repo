@@ -1,0 +1,3 @@
+export function RrTextBoxDots(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 3H5C2.243 3 0 5.243 0 8v8c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V8c0-2.757-2.243-5-5-5m3 13c0 1.654-1.346 3-3 3H5c-1.654 0-3-1.346-3-3V8c0-1.654 1.346-3 3-3h14c1.654 0 3 1.346 3 3zM12 8a1 1 0 0 1-1 1H9v7a1 1 0 1 1-2 0V9H5a1 1 0 1 1 0-2h6a1 1 0 0 1 1 1m7 7.5a1.5 1.5 0 1 1-3.001-.001A1.5 1.5 0 0 1 19 15.5m-4 0a1.5 1.5 0 1 1-3.001-.001A1.5 1.5 0 0 1 15 15.5" /></svg>;
+}

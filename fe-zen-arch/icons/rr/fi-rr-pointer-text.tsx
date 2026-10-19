@@ -1,0 +1,3 @@
+export function RrPointerText(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M18 23a1 1 0 0 1-1 1h-1c-1.641 0-3.088-.806-4-2.031C11.088 23.194 9.641 24 8 24H7a1 1 0 1 1 0-2h1c1.654 0 3-1.346 3-3V5c0-1.654-1.346-3-3-3H7a1 1 0 1 1 0-2h1c1.641 0 3.088.806 4 2.031C12.912.806 14.359 0 16 0h1a1 1 0 1 1 0 2h-1c-1.654 0-3 1.346-3 3v14c0 1.654 1.346 3 3 3h1a1 1 0 0 1 1 1" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrLeaderSpeech(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 2.5a2.5 2.5 0 1 1 5 0 2.5 2.5 0 0 1-5 0M24 17a1 1 0 0 1-1 1h-1v5a1 1 0 1 1-2 0v-5H4v5a1 1 0 1 1-2 0v-5H1a1 1 0 1 1 0-2h1v-2.672c0-.801.312-1.555.879-2.121l.695-.695A2 2 0 0 1 3.5 10a2 2 0 1 1 2 2c-.178 0-.347-.031-.512-.074l-.695.695a1 1 0 0 0-.293.707V16h6V7.362L5.232 1.64A1 1 0 1 1 6.768.36l4.7 5.64h6.063L22.232.36a1 1 0 1 1 1.536 1.28L19 7.362V16h4a1 1 0 0 1 1 1m-12-1h5V8h-5z" /></svg>;
+}

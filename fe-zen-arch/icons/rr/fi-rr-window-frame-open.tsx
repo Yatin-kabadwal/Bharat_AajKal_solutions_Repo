@@ -1,0 +1,3 @@
+export function RrWindowFrameOpen(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 23a1 1 0 0 1-1 1H1a1 1 0 0 1 0-2h1v-6a1 1 0 0 1 2 0v6h16v-6a1 1 0 1 1 2 0v6h1a1 1 0 0 1 1 1M2 12V5c0-2.757 2.243-5 5-5h10c2.757 0 5 2.243 5 5v7a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1M17 2h-4v9h7V5c0-1.654-1.346-3-3-3M4 11h7V2H7C5.346 2 4 3.346 4 5z" /></svg>;
+}

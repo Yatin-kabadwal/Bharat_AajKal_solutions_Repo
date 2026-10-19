@@ -1,0 +1,3 @@
+export function RrParkingCircle(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M8 19a1 1 0 0 1-1-1V9c0-2.206 1.794-4 4-4h2.5C15.981 5 18 7.019 18 9.5S15.981 14 13.5 14H9v4a1 1 0 0 1-1 1m1-7h4.5c1.379 0 2.5-1.122 2.5-2.5S14.879 7 13.5 7H11c-1.103 0-2 .897-2 2zm3 12C5.383 24 0 18.617 0 12S5.383 0 12 0s12 5.383 12 12-5.383 12-12 12m0-22C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2" /></svg>;
+}

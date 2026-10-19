@@ -1,0 +1,3 @@
+export function RrSignalBarsFair(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M10.5 11h-1A2.503 2.503 0 0 0 7 13.5v2.55a2.5 2.5 0 0 0-.5-.05h-1A2.5 2.5 0 0 0 3 18.5v3C3 22.879 4.121 24 5.5 24h5c1.379 0 2.5-1.121 2.5-2.5v-8c0-1.378-1.121-2.5-2.5-2.5M7 22H5.5a.5.5 0 0 1-.5-.5v-3c0-.275.225-.5.5-.5h1c.275 0 .5.225.5.5zm4-.5c0 .275-.225.5-.5.5H9v-8.5c0-.275.225-.5.5-.5h1c.275 0 .5.225.5.5z" /></svg>;
+}

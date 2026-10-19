@@ -1,0 +1,3 @@
+export function SrMonument(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 23a1 1 0 0 1-1 1H1a1 1 0 0 1 0-2h22a1 1 0 0 1 1 1M17.378 5a5 5 0 0 0-1.368-2.646l-1.183-1.182c-1.511-1.512-4.146-1.512-5.656 0L7.988 2.354A5 5 0 0 0 6.62 5zM21 18h-2.065L17.641 7h-4.64v10a1 1 0 0 1-2 0V7H6.36L5.066 18H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2" /></svg>;
+}

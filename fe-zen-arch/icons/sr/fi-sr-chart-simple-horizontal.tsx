@@ -1,0 +1,3 @@
+export function SrChartSimpleHorizontal(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 15H3c-1.65 0-3-1.35-3-3s1.35-3 3-3h18c1.65 0 3 1.35 3 3s-1.35 3-3 3m-6-9H3C1.35 6 0 4.65 0 3s1.35-3 3-3h12c1.65 0 3 1.35 3 3s-1.35 3-3 3M9 24H3c-1.65 0-3-1.35-3-3s1.35-3 3-3h6c1.65 0 3 1.35 3 3s-1.35 3-3 3" /></svg>;
+}

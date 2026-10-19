@@ -1,0 +1,18 @@
+{
+  "name": "core",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@sentry/browser": "catalog:",
+    "@tanstack/react-query": "catalog:",
+    "@tanstack/react-virtual": "catalog:",
+    "date-fns": "catalog:",
+    "icons": "workspace:^",
+    "path-to-regexp": "catalog:",
+    "ui": "workspace:^",
+    "zustand": "catalog:"
+  },
+  "devDependencies": {
+    "@tanstack/react-query-devtools": "catalog:"
+  }
+}

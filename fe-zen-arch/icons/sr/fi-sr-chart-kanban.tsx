@@ -1,0 +1,3 @@
+export function SrChartKanban(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 24c-1.654 0-3-1.346-3-3V3c0-1.654 1.346-3 3-3s3 1.346 3 3v18c0 1.654-1.346 3-3 3M3 19c-1.654 0-3-1.346-3-3V3c0-1.654 1.346-3 3-3s3 1.346 3 3v13c0 1.654-1.346 3-3 3m9-6c-1.654 0-3-1.346-3-3V3c0-1.654 1.346-3 3-3s3 1.346 3 3v7c0 1.654-1.346 3-3 3" /></svg>;
+}

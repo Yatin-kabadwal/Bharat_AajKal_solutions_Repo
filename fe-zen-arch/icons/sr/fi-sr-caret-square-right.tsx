@@ -1,0 +1,3 @@
+export function SrCaretSquareRight(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M0 5v14a5.006 5.006 0 0 0 5 5h14a5.006 5.006 0 0 0 5-5V5a5.006 5.006 0 0 0-5-5H5a5.006 5.006 0 0 0-5 5m10.6 1.269 5.154 5.087a.9.9 0 0 1 0 1.288L10.6 17.731a.924.924 0 0 1-1.575-.644V6.913a.924.924 0 0 1 1.575-.644" /></svg>;
+}

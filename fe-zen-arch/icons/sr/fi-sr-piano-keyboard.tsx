@@ -1,0 +1,3 @@
+export function SrPianoKeyboard(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M0 12V7c0-2.757 2.243-5 5-5h14c2.757 0 5 2.243 5 5v5zm19 2v3a1 1 0 0 1-2 0v-3h-2v3a1 1 0 0 1-2 0v-3h-2v3a1 1 0 0 1-2 0v-3H7v3a1 1 0 0 1-2 0v-3H0v3c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5v-3z" /></svg>;
+}

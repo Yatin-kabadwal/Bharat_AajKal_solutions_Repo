@@ -1,0 +1,3 @@
+export function SrHeading(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 22h-1V2h1a1 1 0 1 0 0-2h-4a1 1 0 1 0 0 2h1v8.5H4V2h1a1 1 0 1 0 0-2H1a1 1 0 1 0 0 2h1v20H1a1 1 0 1 0 0 2h4a1 1 0 1 0 0-2H4v-9.5h16V22h-1a1 1 0 1 0 0 2h4a1 1 0 1 0 0-2" /></svg>;
+}

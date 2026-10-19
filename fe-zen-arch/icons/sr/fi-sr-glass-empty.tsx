@@ -1,0 +1,3 @@
+export function SrGlassEmpty(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M16.586 24H7.323c-2.583 0-4.771-2.016-4.983-4.59L1.01 3.246c-.068-.833.217-1.664.784-2.279S3.164 0 4 0h16c.839 0 1.646.355 2.212.973a3 3 0 0 1 .776 2.29l-1.422 16.175A4.973 4.973 0 0 1 16.586 24" /></svg>;
+}

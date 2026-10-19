@@ -1,0 +1,3 @@
+export function SrSquareE(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 0H5C2.243 0 0 2.243 0 5v14c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m-5 11a1 1 0 1 1 0 2H8v2c0 1.103.897 2 2 2h7a1 1 0 1 1 0 2h-7c-2.206 0-4-1.794-4-4V9c0-2.206 1.794-4 4-4h7a1 1 0 1 1 0 2h-7c-1.103 0-2 .897-2 2v2z" /></svg>;
+}

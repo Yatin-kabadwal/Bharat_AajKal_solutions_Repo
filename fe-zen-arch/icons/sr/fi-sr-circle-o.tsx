@@ -1,0 +1,3 @@
+export function SrCircleO(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M15 10.75v2.5c0 1.654-1.346 3-3 3s-3-1.346-3-3v-2.5c0-1.654 1.346-3 3-3s3 1.346 3 3M24 12c0 6.617-5.383 12-12 12S0 18.617 0 12 5.383 0 12 0s12 5.383 12 12m-7-1.25c0-2.757-2.243-5-5-5s-5 2.243-5 5v2.5c0 2.757 2.243 5 5 5s5-2.243 5-5z" /></svg>;
+}

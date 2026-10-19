@@ -1,0 +1,3 @@
+export function RrModeAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 0C7.589 0 4 3.589 4 8v8c0 4.411 3.589 8 8 8s8-3.589 8-8V8c0-4.411-3.589-8-8-8m6 16c0 3.309-2.691 6-6 6s-6-2.691-6-6V8c0-3.309 2.691-6 6-6s6 2.691 6 6zm-6-4c-2.206 0-4 1.794-4 4s1.794 4 4 4 4-1.794 4-4-1.794-4-4-4m0 6c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2" /></svg>;
+}

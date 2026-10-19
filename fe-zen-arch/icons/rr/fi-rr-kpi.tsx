@@ -1,0 +1,3 @@
+export function RrKpi(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M14.5 7H12a1 1 0 0 0-1 1v9a1 1 0 0 0 2 0v-3h1.302c1.895 0 3.594-1.419 3.693-3.312A3.5 3.5 0 0 0 14.5 7m0 5H13V9h1.5c.827 0 1.5.673 1.5 1.5s-.673 1.5-1.5 1.5M21 8v9a1 1 0 0 1-2 0V8a1 1 0 0 1 2 0M9.017 16.556a1.03 1.03 0 0 1-1.884.837L5.152 13H3.999v4a1 1 0 0 1-2 0V8a1 1 0 0 1 2 0v3h.829l2.048-3.485a1.044 1.044 0 0 1 1.809 1.041l-1.783 3.167z" /></svg>;
+}

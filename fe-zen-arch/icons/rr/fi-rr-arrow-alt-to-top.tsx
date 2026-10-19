@@ -1,0 +1,3 @@
+export function RrArrowAltToTop(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M11.448 2.232a.774.774 0 0 1 1.104 0l4.361 4.418c.492.498.143 1.35-.552 1.35H13v15a1 1 0 0 1-2 0V8H7.639c-.695 0-1.044-.852-.552-1.35zM20 0H4a1 1 0 0 0 0 2h16a1 1 0 1 0 0-2" /></svg>;
+}

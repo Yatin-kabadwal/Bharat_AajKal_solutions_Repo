@@ -1,0 +1,3 @@
+export function SrDoorClosed(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 22h-3V5c0-2.757-2.243-5-5-5H9C6.243 0 4 2.243 4 5v17H1a1 1 0 1 0 0 2h22a1 1 0 1 0 0-2m-7.5-8a1.5 1.5 0 1 1 .001-3.001A1.5 1.5 0 0 1 15.5 14" /></svg>;
+}

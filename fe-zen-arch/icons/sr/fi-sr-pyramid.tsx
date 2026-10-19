@@ -1,0 +1,3 @@
+export function SrPyramid(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20.036 24H3.964a3.955 3.955 0 0 1-3.542-5.733L8.459 2.189A3.93 3.93 0 0 1 11.736.008a3.98 3.98 0 0 1 3.805 2.181l8.037 16.078A3.96 3.96 0 0 1 20.036 24" data-name="Capa 13" /></svg>;
+}

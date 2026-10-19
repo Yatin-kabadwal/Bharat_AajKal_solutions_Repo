@@ -1,0 +1,3 @@
+export function SrFilterList(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M11 22c-.212 0-.423-.068-.6-.2l-4-3A1 1 0 0 1 6 18v-3.63L.944 8.471A3.92 3.92 0 0 1 3.92 2h10.16a3.92 3.92 0 0 1 2.976 6.471L12 14.37V21a1 1 0 0 1-1 1m13-2a1 1 0 0 0-1-1h-8a1 1 0 0 0 0 2h8a1 1 0 0 0 1-1m0-4a1 1 0 0 0-1-1h-8a1 1 0 0 0 0 2h8a1 1 0 0 0 1-1m0-4a1 1 0 0 0-1-1h-5a1 1 0 0 0 0 2h5a1 1 0 0 0 1-1" /></svg>;
+}

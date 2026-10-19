@@ -1,0 +1,3 @@
+export function RrShelvesEmpty(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 0a1 1 0 0 0-1 1v6H2V1a1 1 0 0 0-2 0v22a1 1 0 0 0 2 0v-2h20v2a1 1 0 0 0 2 0V1a1 1 0 0 0-1-1M2 19V9h20v10z" /></svg>;
+}

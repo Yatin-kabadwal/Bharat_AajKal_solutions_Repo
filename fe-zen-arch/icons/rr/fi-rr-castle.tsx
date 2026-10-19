@@ -1,0 +1,3 @@
+export function RrCastle(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 9a1 1 0 0 0-1 1v1h-3V1a1 1 0 1 0-2 0v1h-2V1a1 1 0 1 0-2 0v1h-2V1a1 1 0 1 0-2 0v1H7V1a1 1 0 1 0-2 0v10H2v-1a1 1 0 1 0-2 0v9.5C0 21.981 2.019 24 4.5 24H9a1 1 0 0 0 1-1v-4c0-1.103.897-2 2-2s2 .897 2 2v4a1 1 0 0 0 1 1h4.5c2.481 0 4.5-2.019 4.5-4.5V10a1 1 0 0 0-1-1M7 4h10v7h-3V8a2 2 0 1 0-4 0v3H7zm12.5 18H16v-3c0-2.206-1.794-4-4-4s-4 1.794-4 4v3H4.5A2.503 2.503 0 0 1 2 19.5V13h20v6.5c0 1.379-1.122 2.5-2.5 2.5" /></svg>;
+}

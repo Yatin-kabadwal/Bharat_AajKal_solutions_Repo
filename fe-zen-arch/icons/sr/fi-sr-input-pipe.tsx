@@ -1,0 +1,3 @@
+export function SrInputPipe(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 3H5C2.243 3 0 5.243 0 8v8c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V8c0-2.757-2.243-5-5-5M6 16a1 1 0 1 1-2 0V8a1 1 0 1 1 2 0z" /></svg>;
+}

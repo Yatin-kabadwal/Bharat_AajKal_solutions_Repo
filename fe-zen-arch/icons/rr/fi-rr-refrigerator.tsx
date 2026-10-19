@@ -1,0 +1,3 @@
+export function RrRefrigerator(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 0H7C4.243 0 2 2.243 2 5v14c0 2.757 2.243 5 5 5h10c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5M7 2h10c1.654 0 3 1.346 3 3v4h-3V6a1 1 0 1 0-2 0v3H4V5c0-1.654 1.346-3 3-3m10 20H7c-1.654 0-3-1.346-3-3v-8h11v6a1 1 0 1 0 2 0v-6h3v8c0 1.654-1.346 3-3 3" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrWaveformPath(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 8v8a1 1 0 1 1-2 0V8a1 1 0 1 1 2 0m-5-8a1 1 0 0 0-1 1v22a1 1 0 1 0 2 0V1a1 1 0 0 0-1-1m8 4a1 1 0 0 0-1 1v14a1 1 0 1 0 2 0V5a1 1 0 0 0-1-1M10 4a1 1 0 0 0-1 1v14a1 1 0 1 0 2 0V5a1 1 0 0 0-1-1M6 7a1 1 0 0 0-1 1v8a1 1 0 1 0 2 0V8a1 1 0 0 0-1-1M2 9a1 1 0 0 0-1 1v4a1 1 0 1 0 2 0v-4a1 1 0 0 0-1-1" /></svg>;
+}

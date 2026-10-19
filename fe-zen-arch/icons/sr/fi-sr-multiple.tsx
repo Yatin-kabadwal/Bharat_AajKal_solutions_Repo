@@ -1,0 +1,3 @@
+export function SrMultiple(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M15 0H5C2.243 0 0 2.243 0 5v10c0 2.757 2.243 5 5 5h10c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m-1 11h-3v3a1 1 0 0 1-2 0v-3H6a1 1 0 0 1 0-2h3V6a1 1 0 0 1 2 0v3h3a1 1 0 0 1 0 2m5 13H7a1 1 0 0 1 0-2h12c1.654 0 3-1.346 3-3V7a1 1 0 0 1 2 0v12c0 2.757-2.243 5-5 5" /></svg>;
+}

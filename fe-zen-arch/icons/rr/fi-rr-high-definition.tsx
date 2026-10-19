@@ -1,0 +1,3 @@
+export function RrHighDefinition(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 2H5C2.243 2 0 4.243 0 7v10c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V7c0-2.757-2.243-5-5-5m3 15c0 1.654-1.346 3-3 3H5c-1.654 0-3-1.346-3-3V7c0-1.654 1.346-3 3-3h14c1.654 0 3 1.346 3 3zM11 8v8a1 1 0 0 1-2 0v-3H6v3a1 1 0 0 1-2 0V8a1 1 0 0 1 2 0v3h3V8a1 1 0 0 1 2 0m5-1h-1c-1.103 0-2 .897-2 2v6c0 1.103.897 2 2 2h1c2.206 0 4-1.794 4-4v-2c0-2.206-1.794-4-4-4m2 6c0 1.103-.897 2-2 2h-1V9h1c1.103 0 2 .897 2 2z" /></svg>;
+}

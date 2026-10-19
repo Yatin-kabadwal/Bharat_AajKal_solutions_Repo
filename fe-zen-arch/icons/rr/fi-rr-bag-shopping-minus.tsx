@@ -1,0 +1,3 @@
+export function RrBagShoppingMinus(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 6h-3c0-3.309-2.691-6-6-6S6 2.691 6 6H3C1.346 6 0 7.346 0 9v10c0 2.757 2.243 5 5 5h8a1 1 0 0 0 0-2H5c-1.654 0-3-1.346-3-3V9c0-.551.449-1 1-1h3v2a1 1 0 0 0 2 0V8h8v2a1 1 0 0 0 2 0V8h3c.551 0 1 .449 1 1v6a1 1 0 0 0 2 0V9c0-1.654-1.346-3-3-3M8 6c0-2.206 1.794-4 4-4s4 1.794 4 4zm16 14a1 1 0 0 1-1 1h-6a1 1 0 0 1 0-2h6a1 1 0 0 1 1 1" /></svg>;
+}

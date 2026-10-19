@@ -1,0 +1,3 @@
+export function SrChartPie(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12.3 10.178a5 5 0 0 0 .363.671l10.862-2.161A11.96 11.96 0 0 0 8.216.621Z" /><path d="M12.631 13.742a7 7 0 0 1-2.169-2.773L6.377 1.406a11.991 11.991 0 1 0 14.512 18.626Z" /><path d="m14.365 12.549 7.741 5.9A11.9 11.9 0 0 0 24 12a12 12 0 0 0-.081-1.351Z" /></svg>;
+}

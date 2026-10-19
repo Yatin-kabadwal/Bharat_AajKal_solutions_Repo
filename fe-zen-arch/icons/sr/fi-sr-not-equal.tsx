@@ -1,0 +1,3 @@
+export function SrNotEqual(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 15H11.735l2.727-6H23a1 1 0 1 0 0-2h-7.629l2.539-5.586A1 1 0 0 0 17.414.09a.997.997 0 0 0-1.324.496L13.175 7H1a1 1 0 1 0 0 2h11.265l-2.727 6H1a1 1 0 1 0 0 2h7.629L6.09 22.586a.999.999 0 1 0 1.82.828L10.825 17h12.174a1 1 0 1 0 0-2Z" /></svg>;
+}

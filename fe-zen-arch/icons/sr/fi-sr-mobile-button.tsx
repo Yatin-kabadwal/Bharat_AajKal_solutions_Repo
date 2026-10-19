@@ -1,0 +1,3 @@
+export function SrMobileButton(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M15 0H9C6.243 0 4 2.243 4 5v14c0 2.757 2.243 5 5 5h6c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m-2 21h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2" /></svg>;
+}

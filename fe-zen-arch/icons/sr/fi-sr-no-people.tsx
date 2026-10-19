@@ -1,0 +1,3 @@
+export function SrNoPeople(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 22H5c-2.76 0-5-2.24-5-5V7c0-2.76 2.24-5 5-5h14c2.76 0 5 2.24 5 5v10c0 2.76-2.24 5-5 5" /></svg>;
+}

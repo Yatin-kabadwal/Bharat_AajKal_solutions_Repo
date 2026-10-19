@@ -1,0 +1,3 @@
+export function RrBriefcaseBlank(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 4h-1.1A5 5 0 0 0 13 0h-2C8.59 0 6.57 1.72 6.1 4H5C2.24 4 0 6.24 0 9v10c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5V9c0-2.76-2.24-5-5-5m-8-2h2c1.3 0 2.42.84 2.83 2H8.17C8.58 2.84 9.69 2 11 2m11 17c0 1.65-1.35 3-3 3H5c-1.65 0-3-1.35-3-3V9c0-1.65 1.35-3 3-3h14c1.65 0 3 1.35 3 3z" /></svg>;
+}

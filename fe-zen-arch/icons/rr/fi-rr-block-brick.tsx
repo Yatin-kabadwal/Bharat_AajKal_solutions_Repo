@@ -1,0 +1,3 @@
+export function RrBlockBrick(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 0H5C2.243 0 0 2.243 0 5v14c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5M8 17v-4h8v4zm5-6V7h9v4zM8 5V2h8v3zm3 2v4H2V7zm-9 6h4v4H2zm16 0h4v4h-4zm4-8h-4V2h1c1.654 0 3 1.346 3 3M5 2h1v3H2c0-1.654 1.346-3 3-3M2 19h9v3H5c-1.654 0-3-1.346-3-3m17 3h-6v-3h9c0 1.654-1.346 3-3 3" /></svg>;
+}

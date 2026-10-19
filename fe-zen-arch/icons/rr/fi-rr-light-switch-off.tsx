@@ -1,0 +1,3 @@
+export function RrLightSwitchOff(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 0H7C4.243 0 2 2.243 2 5v14c0 2.757 2.243 5 5 5h10c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m3 19c0 1.654-1.346 3-3 3H7c-1.654 0-3-1.346-3-3V5c0-1.654 1.346-3 3-3h10c1.654 0 3 1.346 3 3zM14 4h-4a3.003 3.003 0 0 0-2.999 2.948L7 18c0 1.103.897 2 2 2h6c1.103 0 2-.897 2-2l-.001-11.052A3.003 3.003 0 0 0 14 4M9 8h6v3H9zm0 10v-5h6.001v5z" /></svg>;
+}

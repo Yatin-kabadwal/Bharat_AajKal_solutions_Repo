@@ -1,0 +1,3 @@
+export function RrArrowTurnLeftUp(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22 23a1 1 0 0 1-1 1h-8c-2.757 0-5-2.243-5-5V2.387c-.036.03-.082.042-.116.075l-5.18 5.137a.999.999 0 1 1-1.408-1.42l5.177-5.134c1.346-1.346 3.705-1.349 5.057.003l5.174 5.131a1 1 0 1 1-1.408 1.42l-5.177-5.134c-.034-.034-.082-.047-.119-.077V19c0 1.654 1.346 3 3 3h8a1 1 0 0 1 1 1" /></svg>;
+}

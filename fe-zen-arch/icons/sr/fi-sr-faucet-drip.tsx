@@ -1,0 +1,3 @@
+export function SrFaucetDrip(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M11 5v11H1a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h8V5H5a1 1 0 1 1 0-2h10a1 1 0 1 1 0 2zm4 3h-2v8h2a1 1 0 0 1 1 1c0 1.103.897 2 2 2h4c1.103 0 2-.897 2-2 0-4.963-4.037-9-9-9" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrPrescriptionBottle(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 3c0-1.654-1.346-3-3-3H4C2.346 0 1 1.346 1 3c0 1.304.836 2.415 2 2.828V19c0 2.757 2.243 5 5 5h8c2.757 0 5-2.243 5-5V5.828A3 3 0 0 0 23 3m-7 19H8c-1.654 0-3-1.346-3-3h3a1 1 0 1 0 0-2H5v-2h3a1 1 0 1 0 0-2H5v-2h3a1 1 0 1 0 0-2H5V6h14v13c0 1.654-1.346 3-3 3m4-18H4a1.001 1.001 0 0 1 0-2h16a1.001 1.001 0 0 1 0 2" /></svg>;
+}

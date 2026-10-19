@@ -1,0 +1,3 @@
+export function SrPump(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M16 6a4 4 0 0 0-4 4v10a4 4 0 0 0 4 4h4a4 4 0 0 0 4-4V10a4 4 0 0 0-4-4zm5 15h-5a1 1 0 0 1 0-2h5a1 1 0 0 1 0 2m0-5h-5a1 1 0 0 1 0-2h5a1 1 0 0 1 0 2m0-5h-5a1 1 0 0 1 0-2h5a1 1 0 0 1 0 2M11 2h-1v17H2v1a1 1 0 0 1-2 0v-7a1 1 0 0 1 2 0v1h3V2H4a1 1 0 0 1 0-2h7a1 1 0 0 1 0 2" /></svg>;
+}

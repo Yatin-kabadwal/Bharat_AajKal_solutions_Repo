@@ -1,0 +1,3 @@
+export function RrShelves(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 0h-5c-1.654 0-3 1.346-3 3v4H2V1a1 1 0 1 0-2 0v22a1 1 0 1 0 2 0v-2h20v2a1 1 0 1 0 2 0V1a1 1 0 0 0-1-1m-6 3c0-.552.449-1 1-1h4v5h-5zM2 15c0-.552.449-1 1-1h3c.551 0 1 .448 1 1v4H2zm12 4H9v-4c0-.552.449-1 1-1h3c.551 0 1 .448 1 1zm2 0v-4c0-1.654-1.346-3-3-3h-3c-.768 0-1.469.29-2 .766A3 3 0 0 0 6 12H3c-.351 0-.687.061-1 .172V9h20v10z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrPedestal(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22 22h-1V5c0-2.757-2.243-5-5-5H8C5.243 0 3 2.243 3 5v17H2a1 1 0 1 0 0 2h20a1 1 0 1 0 0-2M7.5 6a1.5 1.5 0 1 1 .001-3.001A1.5 1.5 0 0 1 7.5 6m9 0a1.5 1.5 0 1 1 .001-3.001A1.5 1.5 0 0 1 16.5 6" /></svg>;
+}

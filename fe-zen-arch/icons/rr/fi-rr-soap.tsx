@@ -1,0 +1,3 @@
+export function RrSoap(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 7.964V7a3 3 0 0 0-2-2.816V2h4a1 1 0 0 0 0-2h-7a3 3 0 0 0-3 3v1.184A3 3 0 0 0 7 7v.964A8.94 8.94 0 0 0 2 16v2a6.006 6.006 0 0 0 6 6h8a6.006 6.006 0 0 0 6-6v-2a8.94 8.94 0 0 0-5-8.036M11 3a1 1 0 0 1 1-1h1v2h-2zM9 7a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v1H9zm11 11a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-2a6.97 6.97 0 0 1 3.394-6h9.212A6.97 6.97 0 0 1 20 16zm-5-4H9a3 3 0 0 0 0 6h6a3 3 0 0 0 0-6m0 4H9a1 1 0 0 1 0-2h6a1 1 0 0 1 0 2" /></svg>;
+}

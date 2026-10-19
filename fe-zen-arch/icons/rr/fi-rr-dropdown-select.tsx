@@ -1,0 +1,3 @@
+export function RrDropdownSelect(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="m16.57 12.052-3.509 3.509a1.5 1.5 0 0 1-2.121 0l-3.509-3.509C6.674 11.295 7.21 10 8.281 10h7.44c1.071 0 1.607 1.294.85 2.052ZM24 5v14c0 2.757-2.243 5-5 5H5c-2.757 0-5-2.243-5-5V5c0-2.757 2.243-5 5-5h14c2.757 0 5 2.243 5 5m-2 0c0-1.654-1.346-3-3-3H5C3.346 2 2 3.346 2 5v14c0 1.654 1.346 3 3 3h14c1.654 0 3-1.346 3-3z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrShieldAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M11 23.942c-2.307-1.178-9-5.158-9-11.573V6.595a4.99 4.99 0 0 1 3.427-4.746L11 .001zm7.573-22.094L13 0v24c2.369-.992 9-4.419 9-11.632V6.594a4.99 4.99 0 0 0-3.427-4.746" /></svg>;
+}

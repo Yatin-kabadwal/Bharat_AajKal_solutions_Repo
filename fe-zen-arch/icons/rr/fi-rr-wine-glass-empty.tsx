@@ -1,0 +1,3 @@
+export function RrWineGlassEmpty(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 0H7C5.346 0 4 1.346 4 3v6.706c0 4.178 3.077 7.716 7 8.23V22H8a1 1 0 1 0 0 2h8a1 1 0 1 0 0-2h-3v-4.061a7.93 7.93 0 0 0 4.571-2.197A7.94 7.94 0 0 0 20 10V3c0-1.654-1.346-3-3-3m1 10a5.96 5.96 0 0 1-1.822 4.307 6 6 0 0 1-4.363 1.69C8.608 15.901 6 13.079 6 9.706V3c0-.552.449-1 1-1h10c.551 0 1 .448 1 1z" /></svg>;
+}

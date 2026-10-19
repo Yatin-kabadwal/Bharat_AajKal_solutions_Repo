@@ -1,0 +1,3 @@
+export function RrMedicalStar(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22.192 18.267a1 1 0 0 1-1.375.331l-7.858-4.812v9.215a1 1 0 1 1-2 0v-9.215l-7.858 4.812a1 1 0 0 1-1.045-1.706L10.045 12 2.056 7.108a.999.999 0 1 1 1.045-1.705l7.858 4.812V1a1 1 0 1 1 2 0v9.215l7.858-4.812a1 1 0 1 1 1.045 1.705L13.873 12l7.989 4.892a1 1 0 0 1 .33 1.375" /></svg>;
+}

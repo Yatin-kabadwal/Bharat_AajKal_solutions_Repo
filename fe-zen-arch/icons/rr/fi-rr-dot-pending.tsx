@@ -1,0 +1,3 @@
+export function RrDotPending(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0m0 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10m1.5-10a1.5 1.5 0 1 1-3.001-.001A1.5 1.5 0 0 1 13.5 12m4.5 0a1.5 1.5 0 1 1-3.001-.001A1.5 1.5 0 0 1 18 12m-9 0a1.5 1.5 0 1 1-3.001-.001A1.5 1.5 0 0 1 9 12" /></svg>;
+}

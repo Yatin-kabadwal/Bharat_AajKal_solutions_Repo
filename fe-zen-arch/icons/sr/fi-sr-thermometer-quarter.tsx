@@ -1,0 +1,3 @@
+export function SrThermometerQuarter(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 12.111V5c0-2.757-2.243-5-5-5S7 2.243 7 5v7.111A7 7 0 0 0 5 17c0 3.859 3.14 7 7 7s7-3.141 7-7a7 7 0 0 0-2-4.889M12 20c-1.654 0-3-1.346-3-3 0-1.302.839-2.402 2-2.816V12a1 1 0 1 1 2 0v2.184c1.161.414 2 1.514 2 2.816 0 1.654-1.346 3-3 3" /></svg>;
+}

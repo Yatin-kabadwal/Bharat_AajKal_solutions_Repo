@@ -1,0 +1,3 @@
+export function RrChartSimpleHorizontal(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 9H3c-1.65 0-3 1.35-3 3s1.35 3 3 3h18c1.65 0 3-1.35 3-3s-1.35-3-3-3m0 4H3c-.55 0-1-.45-1-1s.45-1 1-1h18c.55 0 1 .45 1 1s-.45 1-1 1M3 6h12c1.65 0 3-1.35 3-3s-1.35-3-3-3H3C1.35 0 0 1.35 0 3s1.35 3 3 3m0-4h12c.55 0 1 .45 1 1s-.45 1-1 1H3c-.55 0-1-.45-1-1s.45-1 1-1m6 16H3c-1.65 0-3 1.35-3 3s1.35 3 3 3h6c1.65 0 3-1.35 3-3s-1.35-3-3-3m0 4H3c-.55 0-1-.45-1-1s.45-1 1-1h6c.55 0 1 .45 1 1s-.45 1-1 1" /></svg>;
+}

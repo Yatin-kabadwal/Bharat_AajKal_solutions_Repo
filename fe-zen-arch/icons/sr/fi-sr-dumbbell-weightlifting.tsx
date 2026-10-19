@@ -1,0 +1,3 @@
+export function SrDumbbellWeightlifting(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 2V1a1 1 0 1 0-2 0v1H3V1a1 1 0 1 0-2 0v1a1 1 0 1 0 0 2v2a1 1 0 1 0 2 0V4h.974L9 11.311V23a1 1 0 1 0 2 0v-5h2v5a1 1 0 1 0 2 0V11.311L20.026 4H21v1a1 1 0 1 0 2 0V4a1 1 0 1 0 0-2m-9.526 8h-2.947L6.402 4h11.197z" /><circle cx={12} cy={7} r={2} /></svg>;
+}

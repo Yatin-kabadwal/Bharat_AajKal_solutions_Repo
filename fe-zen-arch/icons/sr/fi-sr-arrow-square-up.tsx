@@ -1,0 +1,3 @@
+export function SrArrowSquareUp(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M5 24h14a5.006 5.006 0 0 0 5-5V5a5.006 5.006 0 0 0-5-5H5a5.006 5.006 0 0 0-5 5v14a5.006 5.006 0 0 0 5 5M6.293 9.465l3.586-3.586a3 3 0 0 1 4.243 0l3.585 3.586.024.025a1 1 0 1 1-1.438 1.389L13 7.586 13.007 18a1 1 0 0 1-2 0L11 7.587l-3.293 3.292a1 1 0 1 1-1.414-1.414" /></svg>;
+}

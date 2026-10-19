@@ -1,0 +1,3 @@
+export function SrDoNotEnter(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 11v2H7v-2zm7 1c0 6.617-5.383 12-12 12S0 18.617 0 12 5.383 0 12 0s12 5.383 12 12m-5-1c0-1.103-.897-2-2-2H7c-1.103 0-2 .897-2 2v2c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2z" /></svg>;
+}

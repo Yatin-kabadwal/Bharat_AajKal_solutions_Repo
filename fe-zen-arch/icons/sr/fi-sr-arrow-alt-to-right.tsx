@@ -1,0 +1,3 @@
+export function SrArrowAltToRight(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21.768 11.448a.774.774 0 0 1 0 1.104l-4.418 4.361c-.498.492-1.35.143-1.35-.552V13H1a1 1 0 0 1 0-2h15V7.639c0-.695.852-1.044 1.35-.552zM23 3a1 1 0 0 0-1 1v16a1 1 0 1 0 2 0V4a1 1 0 0 0-1-1" /></svg>;
+}

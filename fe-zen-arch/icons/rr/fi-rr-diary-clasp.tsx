@@ -1,0 +1,3 @@
+export function RrDiaryClasp(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 0H7C4.243 0 2 2.243 2 5v15c0 2.206 1.794 4 4 4h11c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m3 11h-3a1 1 0 0 1 0-2h3zm0-6v2h-3c-1.654 0-3 1.346-3 3s1.346 3 3 3h3v3H8V2h9c1.654 0 3 1.346 3 3M6 2.172V16a4 4 0 0 0-2 .537V5c0-1.304.836-2.415 2-2.828M17 22H6c-1.103 0-2-.897-2-2s.897-2 2-2h14v1c0 1.654-1.346 3-3 3" /></svg>;
+}

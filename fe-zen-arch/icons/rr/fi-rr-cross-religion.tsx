@@ -1,0 +1,3 @@
+export function RrCrossReligion(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 24c-2.206 0-4-1.794-4-4v-6H6c-2.206 0-4-1.794-4-4s1.794-4 4-4h2V4c0-2.206 1.794-4 4-4s4 1.794 4 4v2h2c2.206 0 4 1.794 4 4s-1.794 4-4 4h-2v6c0 2.206-1.794 4-4 4M6 8c-1.103 0-2 .897-2 2s.897 2 2 2h3a1 1 0 0 1 1 1v7c0 1.103.897 2 2 2s2-.897 2-2v-7a1 1 0 0 1 1-1h3c1.103 0 2-.897 2-2s-.897-2-2-2h-3a1 1 0 0 1-1-1V4c0-1.103-.897-2-2-2s-2 .897-2 2v3a1 1 0 0 1-1 1z" /></svg>;
+}

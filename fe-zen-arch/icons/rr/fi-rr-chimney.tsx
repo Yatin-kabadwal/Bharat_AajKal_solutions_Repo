@@ -1,0 +1,3 @@
+export function RrChimney(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20 0H4C1.794 0 0 1.794 0 4v2c0 1.654 1.346 3 3 3v11c0 2.206 1.794 4 4 4h10c2.206 0 4-1.794 4-4V9c1.654 0 3-1.346 3-3V4c0-2.206-1.794-4-4-4M9 9v6H5V9zM5 20v-3h8v5H7c-1.103 0-2-.897-2-2m12 2h-2v-5h4v3c0 1.103-.897 2-2 2m2-7h-8V9h8zm3-9c0 .551-.449 1-1 1H3c-.551 0-1-.449-1-1V4c0-1.103.897-2 2-2h16c1.103 0 2 .897 2 2z" /></svg>;
+}

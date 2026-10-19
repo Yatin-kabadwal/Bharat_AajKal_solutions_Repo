@@ -1,0 +1,3 @@
+export function RrBlinds(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22 18.172V5c0-2.757-2.243-5-5-5H5C2.243 0 0 2.243 0 5v12c0 2.757 2.243 5 5 5h10a1 1 0 1 0 0-2H5a3 3 0 0 1-2.828-2H17a1 1 0 0 0 1-1V2.172c1.164.413 2 1.524 2 2.828v13.172A3 3 0 0 0 18 21c0 1.654 1.346 3 3 3s3-1.346 3-3a3 3 0 0 0-2-2.828M16 6v2H2V6zM2 10h14v2H2zm3-8h11v2H2.172A3 3 0 0 1 5 2M2 16v-2h14v2zm19 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2" /></svg>;
+}

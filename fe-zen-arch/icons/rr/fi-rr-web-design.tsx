@@ -1,0 +1,3 @@
+export function RrWebDesign(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M3 5.5a1.5 1.5 0 1 1 3.001.001A1.5 1.5 0 0 1 3 5.5M8.5 7a1.5 1.5 0 1 0-.001-3.001A1.5 1.5 0 0 0 8.5 7M24 6v12c0 2.757-2.243 5-5 5H5c-2.757 0-5-2.243-5-5V6c0-2.757 2.243-5 5-5h14c2.757 0 5 2.243 5 5M2 6v2h20V6c0-1.654-1.346-3-3-3H5C3.346 3 2 4.346 2 6m12 4H2v4.5h12zM5 21h9v-4.5H2V18c0 1.654 1.346 3 3 3m17-3v-8h-6v11h3c1.654 0 3-1.346 3-3" /></svg>;
+}

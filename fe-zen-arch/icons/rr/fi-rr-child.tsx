@@ -1,0 +1,3 @@
+export function RrChild(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M9.5 6.5a2.5 2.5 0 1 1 5 0 2.5 2.5 0 0 1-5 0M16 13v3c0 .883-.391 1.67-1 2.22v4.742a1 1 0 1 1-2 0V19h-2v3.962a1 1 0 1 1-2 0V18.22A2.98 2.98 0 0 1 8 16v-3c0-1.654 1.346-3 3-3h2c1.654 0 3 1.346 3 3m-3 4c.551 0 1-.448 1-1v-3c0-.552-.449-1-1-1h-2c-.551 0-1 .448-1 1v3c0 .552.449 1 1 1z" /></svg>;
+}

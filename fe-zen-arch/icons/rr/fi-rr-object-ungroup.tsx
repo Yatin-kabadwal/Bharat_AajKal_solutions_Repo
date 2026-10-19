@@ -1,0 +1,3 @@
+export function RrObjectUngroup(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M11.05 13A2.5 2.5 0 1 0 14 10.05v-5.1A2.5 2.5 0 1 0 11.05 2h-6.1A2.5 2.5 0 1 0 2 4.95v5.1A2.5 2.5 0 1 0 4.95 13zM4 10.5v-6a2.5 2.5 0 0 0 .5-.5h7q.215.285.5.5v6a2.5 2.5 0 0 0-.5.5h-7a2.5 2.5 0 0 0-.5-.5m20 11a2.5 2.5 0 0 1-4.95.5H13a2.5 2.5 0 1 1-2.95-2.95V17a1 1 0 1 1 2 0v2.5q.285.215.5.5h6.95a2.5 2.5 0 0 1 .5-.5v-4.95a2.5 2.5 0 1 1 2 .45v4.05a2.5 2.5 0 0 1 2 2.45" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrGripHorizontal(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M5 4H3C1.346 4 0 5.346 0 7v2a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1M4 8H2V7c0-.551.449-1 1-1h1zm10-4h-4a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1m-1 4h-2V6h2zm8-4h-2a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V7c0-1.654-1.346-3-3-3m1 4h-2V6h1c.551 0 1 .449 1 1zM5 14H1a1 1 0 0 0-1 1v2c0 1.654 1.346 3 3 3h2a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1m-1 4H3c-.551 0-1-.449-1-1v-1h2zm10-4h-4a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1m-1 4h-2v-2h2zm10-4h-4a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h2c1.654 0 3-1.346 3-3v-2a1 1 0 0 0-1-1m-1 3c0 .551-.449 1-1 1h-1v-2h2z" /></svg>;
+}

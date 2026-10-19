@@ -1,0 +1,3 @@
+export function SrDisplayMedical(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 3H5C2.243 3 0 5.243 0 8v6c0 2.757 2.243 5 5 5h6v1H8a1 1 0 0 0 0 2h8a1 1 0 0 0 0-2h-3v-1h6c2.757 0 5-2.243 5-5V8c0-2.757-2.243-5-5-5m-4 9h-2v2a1 1 0 0 1-2 0v-2H9a1 1 0 0 1 0-2h2V8a1 1 0 0 1 2 0v2h2a1 1 0 0 1 0 2" /></svg>;
+}

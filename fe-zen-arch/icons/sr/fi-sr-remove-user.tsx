@@ -1,0 +1,3 @@
+export function SrRemoveUser(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 12a1 1 0 0 1-1 1h-6a1 1 0 0 1 0-2h6a1 1 0 0 1 1 1M9 12a6 6 0 1 0-6-6 6.006 6.006 0 0 0 6 6m0 2a9.01 9.01 0 0 0-9 9 1 1 0 0 0 1 1h16a1 1 0 0 0 1-1 9.01 9.01 0 0 0-9-9" /></svg>;
+}

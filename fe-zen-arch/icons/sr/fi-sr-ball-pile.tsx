@@ -1,0 +1,3 @@
+export function SrBallPile(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M0 18.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0M20.5 22a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M12 22a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m4.25-7a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m-8.5 0a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M12 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7" /></svg>;
+}

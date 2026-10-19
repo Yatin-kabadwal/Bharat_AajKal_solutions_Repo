@@ -1,0 +1,3 @@
+export function RrArrowAltCircleDown(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="m16.913 13.35-4.361 4.418a.773.773 0 0 1-1.104 0L7.087 13.35c-.492-.498-.143-1.35.552-1.35H11V7a1 1 0 0 1 2 0v5h3.361c.695 0 1.044.852.552 1.35M24 12c0 6.617-5.383 12-12 12S0 18.617 0 12 5.383 0 12 0s12 5.383 12 12m-2 0c0-5.514-4.486-10-10-10S2 6.486 2 12s4.486 10 10 10 10-4.486 10-10" /></svg>;
+}

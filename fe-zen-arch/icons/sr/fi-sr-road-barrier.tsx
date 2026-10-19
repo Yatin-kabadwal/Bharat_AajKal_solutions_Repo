@@ -1,0 +1,3 @@
+export function SrRoadBarrier(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 3v18a1 1 0 0 1-2 0v-6h-5.879L22 9.121V6.293L13.293 15H7.914l11-11H22V3a1 1 0 0 1 2 0m-7.914 1h-5.379L2 12.707V9.879L7.879 4H2V3a1 1 0 0 0-2 0v18a1 1 0 0 0 2 0v-6h3.086z" /></svg>;
+}

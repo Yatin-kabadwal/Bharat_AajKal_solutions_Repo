@@ -1,0 +1,3 @@
+export function RrButter(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 16V7c0-2.757-2.243-5-5-5H6C3.243 2 1 4.243 1 7v9a1 1 0 1 0 0 2h.051c.252 2.244 2.139 4 4.449 4h13c2.31 0 4.197-1.756 4.449-4H23a1 1 0 1 0 0-2m-2-9v9h-3V7c0-1.13-.391-2.162-1.026-3H18c1.654 0 3 1.346 3 3M6 4h7c1.654 0 3 1.346 3 3v9H3V7c0-1.654 1.346-3 3-3m12.5 16h-13a2.5 2.5 0 0 1-2.449-2H20.95a2.5 2.5 0 0 1-2.449 2Z" /></svg>;
+}

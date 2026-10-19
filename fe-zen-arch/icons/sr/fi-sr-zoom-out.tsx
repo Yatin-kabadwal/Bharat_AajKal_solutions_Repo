@@ -1,0 +1,3 @@
+export function SrZoomOut(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="m23.707 22.293-5.966-5.965a10 10 0 1 0-1.414 1.414l5.966 5.965a1 1 0 0 0 1.414-1.414M13 11H7a1 1 0 0 1 0-2h6a1 1 0 0 1 0 2" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrKeyboard(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 6h-6V3a1 1 0 0 0-2 0v3H5a5.006 5.006 0 0 0-5 5v4a5.006 5.006 0 0 0 5 5h14a5.006 5.006 0 0 0 5-5v-4a5.006 5.006 0 0 0-5-5m3 9a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3v-4a3 3 0 0 1 3-3h14a3 3 0 0 1 3 3Z" /><path d="M15 14H9a1 1 0 0 0 0 2h6a1 1 0 0 0 0-2M10 12h1a1 1 0 0 0 0-2h-1a1 1 0 0 0 0 2M19 10h-4a1 1 0 0 0 0 2h4a1 1 0 0 0 0-2M6 10H5a1 1 0 0 0 0 2h1a1 1 0 0 0 0-2" /><circle cx={5} cy={15} r={1} /><circle cx={19} cy={15} r={1} /></svg>;
+}

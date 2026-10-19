@@ -1,0 +1,3 @@
+export function RrPoliceBox(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M7 10V9a1 1 0 1 1 2 0v1a1 1 0 1 1-2 0m3 3H8a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1m2-5a1 1 0 0 0-1 1v1a1 1 0 1 0 2 0V9a1 1 0 0 0-1-1m11 15a1 1 0 0 1-1 1H2a1 1 0 1 1 0-2h1V7.09a4.51 4.51 0 0 1 3.941-4.465L11 2.118V1.001a1 1 0 1 1 2 0v1.117l4.059.507A4.51 4.51 0 0 1 21 7.09V22h1a1 1 0 0 1 1 1M19 7.09c0-.389-.09-.759-.251-1.09H5.251A2.5 2.5 0 0 0 5 7.09V22h14zM16 8a1 1 0 0 0-1 1v1a1 1 0 1 0 2 0V9a1 1 0 0 0-1-1" /></svg>;
+}

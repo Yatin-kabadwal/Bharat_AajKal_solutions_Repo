@@ -1,0 +1,3 @@
+export function RrDiagramLeanCanvas(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 2H5C2.24 2 0 4.24 0 7v10c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5m3 5v8h-3V4c1.65 0 3 1.35 3 3m-7 8v-4h2v4zm-8 0v-4h2v4zM17 4v5h-2V4zm-4 0v11h-2V4zM9 4v5H7V4zM5 4v11H2V7c0-1.65 1.35-3 3-3m0 16c-1.65 0-3-1.35-3-3h9v3zm14 0h-6v-3h9c0 1.65-1.35 3-3 3" /></svg>;
+}

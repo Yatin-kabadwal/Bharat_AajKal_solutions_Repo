@@ -1,0 +1,3 @@
+export function RrBuildAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19.5 0H15c-1.103 0-2 .897-2 2v4c0 1.103.897 2 2 2h7c1.103 0 2-.897 2-2V4.5C24 2.019 21.981 0 19.5 0M15 6V2h4.5C20.879 2 22 3.122 22 4.5V6zm7 4H8V6c0-1.103-.897-2-2-2H4.5A4.505 4.505 0 0 0 0 8.5v11C0 21.981 2.019 24 4.5 24h15c2.481 0 4.5-2.019 4.5-4.5V12c0-1.103-.897-2-2-2m0 6h-9v-4h9zm-6 2v4H8v-4zM2 8.5C2 7.122 3.121 6 4.5 6H6v4H2zm9 3.5v4H2v-4zm-9 7.5V18h4v4H4.5A2.503 2.503 0 0 1 2 19.5M19.5 22H18v-4h4v1.5c0 1.378-1.121 2.5-2.5 2.5" /></svg>;
+}

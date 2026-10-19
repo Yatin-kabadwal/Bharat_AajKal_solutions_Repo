@@ -1,0 +1,3 @@
+export function RrSignPosts(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 2.424V1a1 1 0 1 0-2 0v1H5V1a1 1 0 1 0-2 0v1.424A5 5 0 0 0 0 7v6a5 5 0 0 0 3 4.576V23a1 1 0 1 0 2 0v-5h14v5a1 1 0 1 0 2 0v-5.424A5 5 0 0 0 24 13V7a5 5 0 0 0-3-4.576M22 13c0 1.654-1.346 3-3 3H5c-1.654 0-3-1.346-3-3V7c0-1.654 1.346-3 3-3h14c1.654 0 3 1.346 3 3z" /></svg>;
+}

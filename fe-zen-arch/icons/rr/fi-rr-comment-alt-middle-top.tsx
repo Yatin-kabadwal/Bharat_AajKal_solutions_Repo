@@ -1,0 +1,3 @@
+export function RrCommentAltMiddleTop(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20 24H4c-2.206 0-4-1.794-4-4V8c0-2.206 1.794-4 4-4h2.923L10.691.826c.737-.656 1.88-.655 2.637.017L17.147 4H20c2.206 0 4 1.794 4 4v12c0 2.206-1.794 4-4 4M4 6c-1.103 0-2 .897-2 2v12c0 1.103.897 2 2 2h16c1.103 0 2-.897 2-2V8c0-1.103-.897-2-2-2h-3.212c-.232 0-.458-.081-.637-.229l-4.124-3.41-4.095 3.404A1 1 0 0 1 7.287 6z" /></svg>;
+}

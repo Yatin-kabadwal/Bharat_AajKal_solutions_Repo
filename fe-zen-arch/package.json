@@ -1,0 +1,39 @@
+{
+  "name": "base",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "icon": "bash ./scripts/generate_icons.sh",
+    "icon-all": "bash ./bin/generate_icons.sh custom rr sr"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "prettier": {
+    "$schema": "http://json.schemastore.org/prettierrc",
+    "trailingComma": "none",
+    "tabWidth": 2,
+    "printWidth": 120,
+    "semi": false,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "bracketSameLine": true,
+    "tailwindFunctions": [
+      "clsx",
+      "cva"
+    ],
+    "plugins": [
+      "prettier-plugin-organize-imports",
+      "prettier-plugin-tailwindcss"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+export function RrPlugCircleMinus(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M9 18.922V23a1 1 0 1 1-2 0v-4.078C3.583 18.443 1 15.464 1 12V8a1 1 0 1 1 0-2h3V1a1 1 0 1 1 2 0v5h5V1a1 1 0 1 1 2 0v5h3a1 1 0 1 1 0 2H3v4c0 2.475 1.844 4.603 4.289 4.95A2 2 0 0 1 9 18.922M19.5 16h-5a1 1 0 1 0 0 2h5a1 1 0 1 0 0-2m4.5 1c0 3.859-3.141 7-7 7s-7-3.141-7-7 3.141-7 7-7 7 3.141 7 7m-2 0c0-2.757-2.243-5-5-5s-5 2.243-5 5 2.243 5 5 5 5-2.243 5-5" /></svg>;
+}

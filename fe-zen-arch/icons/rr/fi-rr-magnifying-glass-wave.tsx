@@ -1,0 +1,3 @@
+export function RrMagnifyingGlassWave(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="m23.707 22.293-5.969-5.969A9.95 9.95 0 0 0 20 10c0-5.514-4.486-10-10-10S0 4.486 0 10s4.486 10 10 10c2.398 0 4.6-.85 6.324-2.262l5.969 5.969a.997.997 0 0 0 1.414 0 1 1 0 0 0 0-1.414M2 10c0-4.411 3.589-8 8-8s8 3.589 8 8-3.589 8-8 8-8-3.589-8-8m9-4v8a1 1 0 1 1-2 0V6a1 1 0 1 1 2 0m3 3v2a1 1 0 1 1-2 0V9a1 1 0 1 1 2 0M8 8v4a1 1 0 1 1-2 0V8a1 1 0 1 1 2 0" /></svg>;
+}

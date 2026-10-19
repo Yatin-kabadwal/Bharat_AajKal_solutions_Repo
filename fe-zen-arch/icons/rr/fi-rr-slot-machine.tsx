@@ -1,0 +1,3 @@
+export function RrSlotMachine(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 2a2 2 0 1 0-4 0c0 .738.405 1.376 1 1.723V9c0 1.103-.897 2-2 2h-1V9c0-4.962-4.037-9-9-9S0 4.038 0 9v10c0 2.757 2.243 5 5 5h8c2.757 0 5-2.243 5-5v-6h1c2.206 0 4-1.794 4-4V3.723c.595-.346 1-.984 1-1.723M7 14V9h4v5zm-5 0V9h3v5zm11-5h3v5h-3zM9 2c3.164 0 5.842 2.112 6.705 5H2.295C3.158 4.112 5.836 2 9 2m4 20H5c-1.654 0-3-1.346-3-3v-3h14v3c0 1.654-1.346 3-3 3" /></svg>;
+}

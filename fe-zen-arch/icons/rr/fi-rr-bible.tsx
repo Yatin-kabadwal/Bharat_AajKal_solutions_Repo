@@ -1,0 +1,3 @@
+export function RrBible(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M8 8a1 1 0 0 1 1-1h2V5a1 1 0 0 1 2 0v2h2a1 1 0 0 1 0 2h-2v4a1 1 0 0 1-2 0V9H9a1 1 0 0 1-1-1m14-3v14c0 2.757-2.243 5-5 5H6c-2.206 0-4-1.794-4-4V5c0-2.757 2.243-5 5-5h10c2.757 0 5 2.243 5 5M4 5v11.556A3.95 3.95 0 0 1 6 16h14V5c0-1.654-1.346-3-3-3H7C5.346 2 4 3.346 4 5m16 14v-1H6c-1.103 0-2 .897-2 2s.897 2 2 2h11c1.654 0 3-1.346 3-3" /></svg>;
+}

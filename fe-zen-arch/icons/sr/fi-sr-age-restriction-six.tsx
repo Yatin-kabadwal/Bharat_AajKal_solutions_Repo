@@ -1,0 +1,3 @@
+export function SrAgeRestrictionSix(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><circle cx={8.5} cy={13.75} r={1.5} /><path d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0M8.5 17.25c-1.93 0-3.5-1.57-3.5-3.5v-3c0-2.206 1.794-4 4-4h1a1 1 0 1 1 0 2H9a1.996 1.996 0 0 0-1.984 1.842A3.46 3.46 0 0 1 8.5 10.25c1.93 0 3.5 1.57 3.5 3.5s-1.57 3.5-3.5 3.5M18 13h-1v1a1 1 0 1 1-2 0v-1h-1a1 1 0 1 1 0-2h1v-1a1 1 0 1 1 2 0v1h1a1 1 0 1 1 0 2" /></svg>;
+}

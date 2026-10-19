@@ -1,0 +1,3 @@
+export function RrTrainSide(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19.99 15H1a1 1 0 0 0 0 2h18.99a4 4 0 0 0 3.825-5.193A13.94 13.94 0 0 0 10.455 2H1a1 1 0 0 0 0 2h3v3H1a1 1 0 0 0 0 2h19.213a12 12 0 0 1 1.694 3.406 1.97 1.97 0 0 1-.3 1.773A2 2 0 0 1 19.99 15M9 7H6V4h3Zm2 0V4.022A11.95 11.95 0 0 1 18.407 7ZM23 20H1a1 1 0 0 0 0 2h22a1 1 0 0 0 0-2" /></svg>;
+}

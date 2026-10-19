@@ -1,0 +1,3 @@
+export function RrLambda(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 23a1 1 0 0 1-1 1h-1.028a4.97 4.97 0 0 1-4.472-2.764L11.391 9.017 3.888 23.46a1 1 0 0 1-1.776-.922l8.173-15.732-1.574-3.148A2.99 2.99 0 0 0 6.028 2H5a1 1 0 1 1 0-2h1.028A4.97 4.97 0 0 1 10.5 2.764l8.789 17.578A2.99 2.99 0 0 0 21.972 22H23a1 1 0 0 1 1 1" /></svg>;
+}

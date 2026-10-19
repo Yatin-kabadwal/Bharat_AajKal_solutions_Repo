@@ -1,0 +1,3 @@
+export function SrTestTube(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M5 1a1 1 0 0 1 1-1h12a1 1 0 0 1 0 2h-1v5H7V2H6a1 1 0 0 1-1-1m2 8v10a5 5 0 0 0 10 0V9z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrAngleSmallUp(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="m19.061 13.439-4.586-4.585a3.583 3.583 0 0 0-4.95 0l-4.586 4.585a1.5 1.5 0 0 0 2.122 2.122l4.586-4.586a.5.5 0 0 1 .707 0l4.585 4.586a1.5 1.5 0 0 0 2.122-2.122" /></svg>;
+}

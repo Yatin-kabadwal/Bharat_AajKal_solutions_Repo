@@ -1,0 +1,3 @@
+export function RrTubes(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M10 0H2a1 1 0 1 0 0 2v18c0 2.206 1.794 4 4 4s4-1.794 4-4V2a1 1 0 1 0 0-2M6 22c-1.103 0-2-.897-2-2v-9h4v9c0 1.103-.897 2-2 2M8 9H4V2h4zm14-9h-8a1 1 0 1 0 0 2v18c0 2.206 1.794 4 4 4s4-1.794 4-4V2a1 1 0 1 0 0-2m-4 22c-1.103 0-2-.897-2-2v-9h4v9c0 1.103-.897 2-2 2m2-13h-4V2h4z" /></svg>;
+}

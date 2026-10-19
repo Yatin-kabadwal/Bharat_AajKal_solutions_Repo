@@ -1,0 +1,3 @@
+export function SrVenus(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20 8a8 8 0 1 0-9 7.931V19H9a1 1 0 0 0 0 2h2v2a1 1 0 0 0 2 0v-2h2a1 1 0 0 0 0-2h-2v-3.069A8.01 8.01 0 0 0 20 8" /></svg>;
+}

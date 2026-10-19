@@ -1,0 +1,3 @@
+export function SrHdd(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M1 15V5c0-2.76 2.24-5 5-5h12c2.76 0 5 2.24 5 5v10zm22 2v2c0 2.76-2.24 5-5 5H6c-2.76 0-5-2.24-5-5v-2zm-7 3.5c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5.67 1.5 1.5 1.5 1.5-.67 1.5-1.5m4 0c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5.67 1.5 1.5 1.5 1.5-.67 1.5-1.5" /></svg>;
+}

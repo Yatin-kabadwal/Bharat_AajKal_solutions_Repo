@@ -1,0 +1,3 @@
+export function RrMicroscope(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 13.5C24 8.813 20.187 5 15.5 5H13a3 3 0 0 0-2-2.828V1a1 1 0 1 0-2 0v1.172A3 3 0 0 0 7 5v8a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V7h2.5c3.584 0 6.5 2.916 6.5 6.5S19.084 20 15.5 20H11v-2h4a1 1 0 1 0 0-2H5a1 1 0 1 0 0 2h4v2H2a1 1 0 1 0 0 2h1v1a1 1 0 1 0 2 0v-1h10v1a1 1 0 1 0 2 0v-1.133c3.974-.711 7-4.192 7-8.367M11 12H9V5a1.001 1.001 0 0 1 2 0z" /></svg>;
+}

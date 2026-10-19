@@ -1,0 +1,3 @@
+export function RrStairs(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 1a1 1 0 0 1-1 1h-4c-.552 0-1 .449-1 1v4a1 1 0 0 1-1 1h-3c-.552 0-1 .449-1 1v3a1 1 0 0 1-1 1H9c-.551 0-1 .449-1 1v3a1 1 0 0 1-1 1H3c-.551 0-1 .449-1 1v4a1 1 0 0 1-2 0v-4c0-1.654 1.346-3 3-3h3v-2c0-1.654 1.346-3 3-3h2V9c0-1.654 1.346-3 3-3h2V3c0-1.654 1.346-3 3-3h4a1 1 0 0 1 1 1" /></svg>;
+}

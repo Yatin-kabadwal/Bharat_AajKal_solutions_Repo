@@ -1,0 +1,3 @@
+export function RrPlusMinus(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M3 9a1 1 0 0 1 1-1h7V1a1 1 0 1 1 2 0v7h7a1 1 0 1 1 0 2h-7v7a1 1 0 1 1-2 0v-7H4a1 1 0 0 1-1-1m17 13H4a1 1 0 1 0 0 2h16a1 1 0 1 0 0-2" /></svg>;
+}

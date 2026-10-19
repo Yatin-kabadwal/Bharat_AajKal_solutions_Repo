@@ -1,0 +1,3 @@
+export function RrTurnLeft(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 13v8a1 1 0 1 1-2 0v-8c0-1.654-1.346-3-3-3H2.367c.032.039.059.08.095.116l5.137 5.18a.999.999 0 1 1-1.42 1.408l-5.134-5.177C.372 10.854 0 9.955 0 9s.372-1.854 1.048-2.529l5.131-5.175a1 1 0 1 1 1.42 1.408L2.465 7.881c-.037.037-.065.079-.098.119H19c2.757 0 5 2.243 5 5" /></svg>;
+}

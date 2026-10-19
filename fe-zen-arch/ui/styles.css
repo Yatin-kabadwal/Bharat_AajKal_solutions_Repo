@@ -1,0 +1,306 @@
+/* Custom Font: Montserrat */
+/* Source: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap */
+@import url('./font.css') layer(base);
+
+@import 'tailwindcss';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-*: initial;
+  --color-inherit: inherit;
+  --color-current: current;
+  --color-transparent: transparent;
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #3b82f6;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8;
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
+  --color-primary-950: #172554;
+
+  --color-gray-10: rgb(var(--gray-10));
+  --color-gray-50: rgb(var(--gray-50));
+  --color-gray-100: rgb(var(--gray-100));
+  --color-gray-200: rgb(var(--gray-200));
+  --color-gray-300: rgb(var(--gray-300));
+  --color-gray-400: rgb(var(--gray-400));
+  --color-gray-500: rgb(var(--gray-500));
+  --color-gray-600: rgb(var(--gray-600));
+  --color-gray-700: rgb(var(--gray-700));
+  --color-gray-800: rgb(var(--gray-800));
+  --color-gray-900: rgb(var(--gray-900));
+  --color-gray-950: rgb(var(--gray-950));
+
+  --color-red-50: #fef2f2;
+  --color-red-100: #fee2e2;
+  --color-red-200: #fecaca;
+  --color-red-300: #fca5a5;
+  --color-red-400: #f87171;
+  --color-red-500: #ef4444;
+  --color-red-600: #dc2626;
+  --color-red-700: #b91c1c;
+  --color-red-800: #991b1b;
+  --color-red-900: #7f1d1d;
+  --color-red-950: #450a0a;
+
+  --color-orange-50: #fff7ed;
+  --color-orange-100: #ffedd5;
+  --color-orange-200: #fed7aa;
+  --color-orange-300: #fdba74;
+  --color-orange-400: #fb923c;
+  --color-orange-500: #f97316;
+  --color-orange-600: #ea580c;
+  --color-orange-700: #c2410c;
+  --color-orange-800: #9a3412;
+  --color-orange-900: #7c2d12;
+  --color-orange-950: #431407;
+
+  --color-yellow-50: #fefce8;
+  --color-yellow-100: #fef9c3;
+  --color-yellow-200: #fef08a;
+  --color-yellow-300: #fde047;
+  --color-yellow-400: #facc15;
+  --color-yellow-500: #eab308;
+  --color-yellow-600: #ca8a04;
+  --color-yellow-700: #a16207;
+  --color-yellow-800: #854d0e;
+  --color-yellow-900: #713f12;
+  --color-yellow-950: #422006;
+
+  --color-green-50: #f0fdf4;
+  --color-green-100: #dcfce7;
+  --color-green-200: #bbf7d0;
+  --color-green-300: #86efac;
+  --color-green-400: #4ade80;
+  --color-green-500: #22c55e;
+  --color-green-600: #16a34a;
+  --color-green-700: #15803d;
+  --color-green-800: #166534;
+  --color-green-900: #14532d;
+  --color-green-950: #052e16;
+
+  --color-teal-50: #f0fdfa;
+  --color-teal-100: #ccfbf1;
+  --color-teal-200: #99f6e4;
+  --color-teal-300: #5eead4;
+  --color-teal-400: #2dd4bf;
+  --color-teal-500: #14b8a6;
+  --color-teal-600: #0d9488;
+  --color-teal-700: #0f766e;
+  --color-teal-800: #115e59;
+  --color-teal-900: #134e4a;
+  --color-teal-950: #042f2e;
+
+  --color-pink-50: #fdf2f8;
+  --color-pink-100: #fce7f3;
+  --color-pink-200: #fbcfe8;
+  --color-pink-300: #f9a8d4;
+  --color-pink-400: #f472b6;
+  --color-pink-500: #ec4899;
+  --color-pink-600: #db2777;
+  --color-pink-700: #be185d;
+  --color-pink-800: #9d174d;
+  --color-pink-900: #831843;
+  --color-pink-950: #500724;
+
+  --color-rose-50: #fff1f2;
+  --color-rose-100: #ffe4e6;
+  --color-rose-200: #fecdd3;
+  --color-rose-300: #fda4af;
+  --color-rose-400: #fb7185;
+  --color-rose-500: #f43f5e;
+  --color-rose-600: #e11d48;
+  --color-rose-700: #be123c;
+  --color-rose-800: #9f1239;
+  --color-rose-900: #881337;
+  --color-rose-950: #4c0519;
+
+  --font-weight-*: initial;
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+
+  --font-sans:
+    Montserrat, ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+    'Noto Color Emoji';
+
+  --shadow-cxl: 1px 3px 9px rgba(0, 0, 0, 0.1);
+
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+
+  --animate-slide-in: slide-in 0.3s ease-out;
+
+  @keyframes slide-in {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+}
+
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}
+
+@utility shadow-card {
+  @apply shadow-cxl dark:shadow-black/25;
+}
+
+@utility outline-focus-input {
+  @apply focus-visible:outline-primary-600 focus-visible:outline-2 focus-visible:-outline-offset-1;
+}
+
+@utility outline-focus-select {
+  @apply data-[state=open]:outline-primary-600 data-[state=open]:outline-2 data-[state=open]:-outline-offset-1;
+}
+
+@utility background {
+  /* Base Background & Foreground Color */
+  @apply bg-gray-10 dark:bg-gray-10;
+}
+
+@utility foreground {
+  @apply bg-white dark:bg-gray-50;
+}
+
+@utility collapsible-arrow {
+  @apply rotate-0;
+}
+
+@utility secure-input {
+  -webkit-text-security: disc;
+}
+
+@layer base {
+  /* Remove default outline on :focus-visible and set default color to enable easily by setting outline width */
+  :focus-visible {
+    outline: rgb(var(--gray-900)) auto 0px;
+  }
+
+  :root {
+    --gray-10: 249 250 251; /* Very light gray */
+    --gray-50: 243 244 246; /* Light gray */
+    --gray-100: 229 231 235; /* Soft gray */
+    --gray-200: 209 213 219; /* Light medium gray */
+    --gray-300: 156 163 175; /* Medium gray */
+    --gray-400: 107 114 128; /* Darker medium gray */
+    --gray-500: 75 85 99; /* Dark gray */
+    --gray-600: 55 65 81; /* Deep gray */
+    --gray-700: 31 41 55; /* Very dark gray */
+    --gray-800: 17 24 39; /* Near black */
+    --gray-900: 15 23 42; /* Almost black */
+    --gray-950: 0 0 21; /* Almost black - 2 */
+    --radius: 0.5rem;
+  }
+
+  /* Blue-Gray Dark Shades */
+  .dark {
+    --gray-10: 11 17 30; /* Very deep blue-gray */
+    --gray-50: 15 23 41; /* Dark blue-gray */
+    --gray-100: 26 35 57; /* Slightly lighter blue-gray */
+    --gray-200: 34 48 75; /* Medium dark blue-gray */
+    --gray-300: 46 59 91; /* Medium blue-gray */
+    --gray-400: 60 74 110; /* Lighter blue-gray */
+    --gray-500: 76 92 130; /* Softer blue-gray */
+    --gray-600: 96 116 154; /* Dark muted blue */
+    --gray-700: 120 138 168; /* Muted bluish-gray */
+    --gray-800: 154 165 192; /* Light muted blue-gray */
+    --gray-900: 189 198 221; /* Very light muted blue-gray */
+    --gray-950: 255 255 255; /* White */
+  }
+
+  .border,
+  .border-r,
+  .border-l,
+  .border-t,
+  .border-b,
+  .border-x,
+  .border-y {
+    @apply border-gray-600;
+  }
+}
+
+/* ************************ Remove default spin up & down button on number input ************************ */
+
+/* Chrome, Safari, Edge, Opera */
+.input-num-reset::-webkit-outer-spin-button,
+.input-num-reset::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.input-num-reset[type='number'] {
+  -moz-appearance: textfield;
+}
+
+/* ************************ Table styles ************************ */
+
+.table th {
+  @apply h-10 px-2 text-left align-middle font-medium text-gray-500 [&:has([role=checkbox])]:pr-0 *:[[role=checkbox]]:translate-y-[2px];
+}
+
+.table tr {
+  @apply border-b transition-colors hover:bg-gray-100/50 data-[state=selected]:bg-gray-100;
+}
+
+.table td {
+  @apply p-2 align-middle [&:has([role=checkbox])]:pr-0 *:[[role=checkbox]]:translate-y-[2px];
+}
+
+.table tbody {
+  @apply [&_tr:last-child]:border-0;
+}
+
+.table thead {
+  @apply [&_tr]:border-b;
+}
+
+.table tfoot {
+  @apply border-t bg-gray-100/50 font-medium last:[&>tr]:border-b-0;
+}
+
+.table caption {
+  @apply mt-4 text-sm text-gray-500;
+}
+
+/* ************************ Scrollbar styles ************************ */
+
+/* Width of scroll bar */
+::-webkit-scrollbar {
+  @apply h-2 w-2;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  @apply bg-gray-200;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  @apply rounded-sm bg-gray-300 dark:bg-gray-500;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-gray-700;
+}

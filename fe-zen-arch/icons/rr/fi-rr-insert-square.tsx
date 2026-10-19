@@ -1,0 +1,3 @@
+export function RrInsertSquare(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17.7 9.786a1 1 0 1 1-1.4 1.428L13 7.98V23a1 1 0 0 1-2 0V7.991l-3.3 3.223a1 1 0 1 1-1.399-1.429l4.293-4.207A1.98 1.98 0 0 1 11.997 5h.007a2 2 0 0 1 1.411.585l4.286 4.2ZM19 0H5C2.243 0 0 2.243 0 5v18a1 1 0 0 0 2 0V5c0-1.654 1.346-3 3-3h14c1.654 0 3 1.346 3 3v18a1 1 0 1 0 2 0V5c0-2.757-2.243-5-5-5" /></svg>;
+}

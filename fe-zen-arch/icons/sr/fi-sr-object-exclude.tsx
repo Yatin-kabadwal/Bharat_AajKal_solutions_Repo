@@ -1,0 +1,3 @@
+export function SrObjectExclude(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M8 13v3H5c-2.76 0-5-2.24-5-5V5c0-2.76 2.24-5 5-5h6c2.76 0 5 2.24 5 5v3h-3c-2.76 0-5 2.24-5 5m11-5h-3v3c0 2.76-2.24 5-5 5H8v3c0 2.76 2.24 5 5 5h6c2.76 0 5-2.24 5-5v-6c0-2.76-2.24-5-5-5" /></svg>;
+}

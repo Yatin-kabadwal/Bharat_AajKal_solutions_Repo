@@ -1,0 +1,3 @@
+export function SrFlag(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M1 24a1 1 0 0 1-1-1V4a4 4 0 0 1 4-4h7a4 4 0 0 1 4 4v5a4 4 0 0 1-4 4H2v10a1 1 0 0 1-1 1M20 4h-3v5a6.006 6.006 0 0 1-6 6h-.444A3.99 3.99 0 0 0 14 17h6a4 4 0 0 0 4-4V8a4 4 0 0 0-4-4" /></svg>;
+}

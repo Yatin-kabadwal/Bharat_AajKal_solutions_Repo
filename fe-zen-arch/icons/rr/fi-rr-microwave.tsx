@@ -1,0 +1,3 @@
+export function RrMicrowave(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 2H5C2.243 2 0 4.243 0 7v9a5 5 0 0 0 3 4.576V22a1 1 0 1 0 2 0v-1h14v1a1 1 0 1 0 2 0v-1.424A5 5 0 0 0 24 16V7c0-2.757-2.243-5-5-5m3 14c0 1.654-1.346 3-3 3H5c-1.654 0-3-1.346-3-3V7c0-1.654 1.346-3 3-3h14c1.654 0 3 1.346 3 3zM14 6H6c-1.103 0-2 .897-2 2v7c0 1.103.897 2 2 2h8c1.103 0 2-.897 2-2V8c0-1.103-.897-2-2-2m-8 9V8h8v7zm14-8v9a1 1 0 1 1-2 0V7a1 1 0 0 1 2 0" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrBold(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22 17a7 7 0 0 0-4.046-6.337A6.986 6.986 0 0 0 12 0H5a2 2 0 0 0-2 2v20a2 2 0 0 0 2 2h10a7.01 7.01 0 0 0 7-7M7 4h5a3 3 0 0 1 0 6H7Zm8 16H7v-6h8a3 3 0 0 1 0 6" /></svg>;
+}

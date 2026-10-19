@@ -1,0 +1,3 @@
+export function RrUtensils(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 1v6a5.01 5.01 0 0 1-4 4.9V23a1 1 0 0 1-2 0V11.9A5.01 5.01 0 0 1 2 7V1a1 1 0 0 1 2 0v6a3 3 0 0 0 2 2.816V1a1 1 0 0 1 2 0v8.816A3 3 0 0 0 10 7V1a1 1 0 0 1 2 0m10 9a12.64 12.64 0 0 1-5 9.775V23a1 1 0 0 1-2 0V2A1.9 1.9 0 0 1 16.131.217a2.19 2.19 0 0 1 2.356.459A13.47 13.47 0 0 1 22 10m-2 0a11.7 11.7 0 0 0-3-7.937V17.07A10.3 10.3 0 0 0 20 10" /></svg>;
+}

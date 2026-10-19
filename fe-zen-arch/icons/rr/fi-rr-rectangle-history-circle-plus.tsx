@@ -1,0 +1,3 @@
+export function RrRectangleHistoryCirclePlus(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M6 1a1 1 0 0 1 1-1h10a1 1 0 1 1 0 2H7a1 1 0 0 1-1-1M4 7h16a1 1 0 1 0 0-2H4a1 1 0 1 0 0 2m15.5 9H18v-1.5a1 1 0 1 0-2 0V16h-1.5a1 1 0 1 0 0 2H16v1.5a1 1 0 1 0 2 0V18h1.5a1 1 0 1 0 0-2m4.5 1c0 3.859-3.14 7-7 7s-7-3.141-7-7 3.14-7 7-7 7 3.141 7 7m-2 0c0-2.757-2.243-5-5-5s-5 2.243-5 5 2.243 5 5 5 5-2.243 5-5M9 22H5c-1.654 0-3-1.346-3-3v-4c0-1.654 1.346-3 3-3h4a1 1 0 1 0 0-2H5c-2.757 0-5 2.243-5 5v4c0 2.757 2.243 5 5 5h4a1 1 0 1 0 0-2" /></svg>;
+}

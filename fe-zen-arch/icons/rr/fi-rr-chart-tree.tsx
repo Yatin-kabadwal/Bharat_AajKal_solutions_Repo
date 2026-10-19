@@ -1,0 +1,3 @@
+export function RrChartTree(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21.736 16.4A5.01 5.01 0 0 0 17 13h-4v-1.084a6 6 0 1 0-2 0V13H7a5.01 5.01 0 0 0-4.736 3.4 4 4 0 1 0 2.447-.334A3 3 0 0 1 7 15h4v1.127a4 4 0 1 0 2 0V15h4a3 3 0 0 1 2.289 1.063 4 4 0 1 0 2.447.334ZM8 6a4 4 0 1 1 4 4 4 4 0 0 1-4-4M6 20a2 2 0 1 1-2-2 2 2 0 0 1 2 2m8 0a2 2 0 1 1-2-2 2 2 0 0 1 2 2m6 2a2 2 0 1 1 2-2 2 2 0 0 1-2 2" /></svg>;
+}

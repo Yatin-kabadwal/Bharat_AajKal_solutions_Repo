@@ -1,0 +1,3 @@
+export function SrComputerMouse(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M11 10H4c0-3.86 3.14-7 7-7zm-7 6c0 4.411 3.589 8 8 8s8-3.589 8-8v-4H4zm16-6c0-3.86-3.141-7-7-7v7zm-7-9a1 1 0 0 0-2 0v2h2z" /></svg>;
+}

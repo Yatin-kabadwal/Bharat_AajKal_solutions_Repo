@@ -1,0 +1,3 @@
+export function RrGopuram(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22 16.556V13c0-1.474-.81-2.75-2-3.444V1a1 1 0 1 0-2 0v1h-2V1a1 1 0 1 0-2 0v1h-4V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v8.556c-1.19.694-2 1.97-2 3.444v3.556C.81 17.25 0 18.526 0 20v3a1 1 0 0 0 2 0v-3c0-1.103.897-2 2-2h16c1.103 0 2 .897 2 2v3a1 1 0 1 0 2 0v-3c0-1.474-.81-2.75-2-3.444M6 4h12v5h-4V8a2 2 0 1 0-4 0v1H6zm8 12v-1a2 2 0 1 0-4 0v1H4v-3c0-1.103.897-2 2-2h12c1.103 0 2 .897 2 2v3zm0 6v1a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-1a2 2 0 1 1 4 0" /></svg>;
+}

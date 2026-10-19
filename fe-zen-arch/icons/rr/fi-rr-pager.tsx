@@ -1,0 +1,3 @@
+export function RrPager(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M18 15a1 1 0 0 1-1 1h-2a1 1 0 1 1 0-2h2a1 1 0 0 1 1 1M7 14H5a1 1 0 1 0 0 2h2a1 1 0 1 0 0-2m5 0h-2a1 1 0 1 0 0 2h2a1 1 0 1 0 0-2m8-7v4a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1m-2 1H6v2h12zm6-1v10c0 2.757-2.243 5-5 5H5c-2.757 0-5-2.243-5-5V7c0-2.757 2.243-5 5-5h14c2.757 0 5 2.243 5 5m-2 0c0-1.654-1.346-3-3-3H5C3.346 4 2 5.346 2 7v10c0 1.654 1.346 3 3 3h14c1.654 0 3-1.346 3-3z" /></svg>;
+}

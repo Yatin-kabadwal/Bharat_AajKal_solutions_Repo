@@ -1,0 +1,3 @@
+export function RrBeerMugEmpty(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20.5 6H19V3a1 1 0 1 0 0-2H1a1 1 0 1 0 0 2v15c0 2.757 2.243 5 5 5h8c2.757 0 5-2.243 5-5v-1h1.5c1.93 0 3.5-1.57 3.5-3.5v-4C24 7.57 22.43 6 20.5 6M14 21H6c-1.654 0-3-1.346-3-3V3h14v15c0 1.654-1.346 3-3 3m8-7.5c0 .827-.673 1.5-1.5 1.5H19V8h1.5c.827 0 1.5.673 1.5 1.5zm-6.961-7.48v12a1 1 0 1 1-2 0v-12a1 1 0 1 1 2 0m-4 0v12a1 1 0 1 1-2 0v-12a1 1 0 1 1 2 0m-4 0v12a1 1 0 1 1-2 0v-12a1 1 0 1 1 2 0" /></svg>;
+}

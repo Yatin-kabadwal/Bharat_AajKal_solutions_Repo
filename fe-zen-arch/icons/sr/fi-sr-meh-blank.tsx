@@ -1,0 +1,3 @@
+export function SrMehBlank(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 0A12.013 12.013 0 0 0 0 12c.6 15.9 23.4 15.894 24 0A12.013 12.013 0 0 0 12 0M8.5 11a1.5 1.5 0 0 1 0-3 1.5 1.5 0 0 1 0 3m7 0a1.5 1.5 0 0 1 0-3 1.5 1.5 0 0 1 0 3" /></svg>;
+}

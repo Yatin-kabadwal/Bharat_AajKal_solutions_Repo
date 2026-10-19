@@ -1,0 +1,3 @@
+export function RrCircleDivide(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M18 12a1 1 0 0 1-1 1H7a1 1 0 1 1 0-2h10a1 1 0 0 1 1 1m-6-3a1.5 1.5 0 1 0-.001-3.001A1.5 1.5 0 0 0 12 9m0 6a1.5 1.5 0 1 0 .001 3.001A1.5 1.5 0 0 0 12 15m12-3c0 6.617-5.383 12-12 12S0 18.617 0 12 5.383 0 12 0s12 5.383 12 12m-2 0c0-5.514-4.486-10-10-10S2 6.486 2 12s4.486 10 10 10 10-4.486 10-10" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrDiagramSubtask(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20 10c2.21 0 4-1.79 4-4V4c0-2.21-1.79-4-4-4H4C1.79 0 0 1.79 0 4v2c0 2.21 1.79 4 4 4v5c0 2.76 2.24 5 5 5h1c0 2.21 1.79 4 4 4h6c2.21 0 4-1.79 4-4v-2c0-2.21-1.79-4-4-4h-6c-2.21 0-4 1.79-4 4H9c-1.65 0-3-1.35-3-3v-5zm-8 8c0-1.1.9-2 2-2h6c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2h-6c-1.1 0-2-.9-2-2zM2 6V4c0-1.1.9-2 2-2h16c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2" /></svg>;
+}

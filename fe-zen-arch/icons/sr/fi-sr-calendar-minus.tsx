@@ -1,0 +1,3 @@
+export function SrCalendarMinus(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M0 10v9c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5v-9zm15 8H9a1 1 0 0 1 0-2h6a1 1 0 0 1 0 2M0 8V7c0-2.757 2.243-5 5-5h1V1a1 1 0 0 1 2 0v1h8V1a1 1 0 0 1 2 0v1h1c2.757 0 5 2.243 5 5v1z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrRectangleVerticalHistory(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 0h-4c-2.757 0-5 2.243-5 5v14c0 2.757 2.243 5 5 5h4c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m3 19c0 1.654-1.346 3-3 3h-4c-1.654 0-3-1.346-3-3V5c0-1.654 1.346-3 3-3h4c1.654 0 3 1.346 3 3zM7 4v17a1 1 0 0 1-2 0V4a1 1 0 0 1 2 0M2 7v11a1 1 0 0 1-2 0V7a1 1 0 0 1 2 0" /></svg>;
+}

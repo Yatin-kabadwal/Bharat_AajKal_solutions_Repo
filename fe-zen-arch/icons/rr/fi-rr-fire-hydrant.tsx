@@ -1,0 +1,3 @@
+export function RrFireHydrant(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 22h-1v-7h.5c.827 0 1.5-.673 1.5-1.5s-.673-1.5-1.5-1.5H18V8a6.01 6.01 0 0 0-5-5.916V1a1 1 0 1 0-2 0v1.084A6.01 6.01 0 0 0 6 8v4h-.5c-.827 0-1.5.673-1.5 1.5S4.673 15 5.5 15H6v7H5a1 1 0 1 0 0 2h14a1 1 0 1 0 0-2M12 4c2.206 0 4 1.794 4 4H8c0-2.206 1.794-4 4-4m-4 6h8v12H8zm5.5 3.5a1.5 1.5 0 1 1-3.001-.001 1.5 1.5 0 0 1 3.001.001" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrChartSimple(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 24c-1.65 0-3-1.35-3-3V3c0-1.65 1.35-3 3-3s3 1.35 3 3v18c0 1.65-1.35 3-3 3m9 0c-1.65 0-3-1.35-3-3V9c0-1.65 1.35-3 3-3s3 1.35 3 3v12c0 1.65-1.35 3-3 3M3 24c-1.65 0-3-1.35-3-3v-6c0-1.65 1.35-3 3-3s3 1.35 3 3v6c0 1.65-1.35 3-3 3" /></svg>;
+}

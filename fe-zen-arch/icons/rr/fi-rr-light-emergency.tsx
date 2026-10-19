@@ -1,0 +1,3 @@
+export function RrLightEmergency(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 17.126V9c0-4.963-4.037-9-9-9S3 4.037 3 9v8.126A4.006 4.006 0 0 0 0 21c0 1.654 1.346 3 3 3h18c1.654 0 3-1.346 3-3a4.006 4.006 0 0 0-3-3.874M12 2c3.859 0 7 3.141 7 7v8H5V9c0-3.859 3.141-7 7-7m9 20H3a1 1 0 0 1-1-1c0-1.103.897-2 2-2h16c1.103 0 2 .897 2 2a1 1 0 0 1-1 1M8 9c0-2.206 1.794-4 4-4a1 1 0 1 1 0 2c-1.103 0-2 .897-2 2a1 1 0 1 1-2 0" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrNotesMedical(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M15 13a1 1 0 1 1-2 0v-2h-2a1 1 0 1 1 0-2h2V7a1 1 0 1 1 2 0v2h2a1 1 0 1 1 0 2h-2zm9-8v8.373a4.02 4.02 0 0 1-1.172 2.828l-2.627 2.627A4.02 4.02 0 0 1 17.373 20H9c-2.757 0-5-2.243-5-5V5c0-2.757 2.243-5 5-5h10c2.757 0 5 2.243 5 5M9 18h8v-3a2 2 0 0 1 2-2h3V5c0-1.654-1.346-3-3-3H9C7.346 2 6 3.346 6 5v10c0 1.654 1.346 3 3 3m8 4H5c-1.654 0-3-1.346-3-3V7a1 1 0 1 0-2 0v12c0 2.757 2.243 5 5 5h12a1 1 0 1 0 0-2" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrClockOneThirty(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0m2.866 9.036L13 12.268V18a1 1 0 1 1-2 0v-6c0-.176.046-.348.134-.5l2-3.464a1 1 0 1 1 1.732 1" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrTrafficCone(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 22h-.873L14.773 1.979C14.341.805 13.252.045 12 .045s-2.341.76-2.773 1.936L1.873 22H1a1 1 0 1 0 0 2h22a1 1 0 1 0 0-2M7.676 12h8.647l1.469 4H6.207zm3.427-9.329c.214-.581.74-.626.896-.626s.683.045.896.625L15.588 10H8.41zM5.472 18h13.056l1.469 4H4.003z" /></svg>;
+}

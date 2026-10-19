@@ -1,0 +1,3 @@
+export function RrArrowCircleRight(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M0 12A12 12 0 1 0 12 0 12.013 12.013 0 0 0 0 12m22 0A10 10 0 1 1 12 2a10.01 10.01 0 0 1 10 10m-8.879-5.707a1 1 0 0 0 0 1.414L16.413 11 6 11.007a1 1 0 1 0 0 2L16.414 13l-3.293 3.293a1 1 0 1 0 1.389 1.438l.025-.024 3.586-3.585a3 3 0 0 0 0-4.243l-3.586-3.586a1 1 0 0 0-1.414 0" /></svg>;
+}

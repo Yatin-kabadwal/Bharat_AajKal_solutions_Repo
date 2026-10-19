@@ -1,0 +1,3 @@
+export function RrBedAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 2H5C2.243 2 0 4.243 0 7v14a1 1 0 1 0 2 0v-2h20v2a1 1 0 1 0 2 0V7c0-2.757-2.243-5-5-5M5 4h14c1.654 0 3 1.346 3 3v6h-2c0-2.206-1.794-4-4-4h-1a4 4 0 0 0-3 1.357A4 4 0 0 0 9 9H8c-2.206 0-4 1.794-4 4H2V7c0-1.654 1.346-3 3-3m8 9c0-1.103.897-2 2-2h1c1.103 0 2 .897 2 2zm-7 0c0-1.103.897-2 2-2h1c1.103 0 2 .897 2 2zm-4 4v-2h20v2z" /></svg>;
+}

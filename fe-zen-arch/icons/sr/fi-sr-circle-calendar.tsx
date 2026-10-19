@@ -1,0 +1,3 @@
+export function SrCircleCalendar(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M16 11v3a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-3zm8 1c0 6.617-5.383 12-12 12S0 18.617 0 12 5.383 0 12 0s12 5.383 12 12m-6-2a3 3 0 0 0-2-2.828V6a1 1 0 1 0-2 0v1h-4V6a1 1 0 1 0-2 0v1.172A3 3 0 0 0 6 10v4c0 1.654 1.346 3 3 3h6c1.654 0 3-1.346 3-3z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrUsbPendrive(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 9.026V4a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v5.026A4.98 4.98 0 0 0 3 13v2a9 9 0 0 0 18 0v-2a4.98 4.98 0 0 0-2-3.974M7 8V4a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v4zm12 7a7 7 0 0 1-14 0v-2a3 3 0 0 1 3-3h8a3 3 0 0 1 3 3Z" /><circle cx={10} cy={5} r={1} /><circle cx={14} cy={5} r={1} /></svg>;
+}

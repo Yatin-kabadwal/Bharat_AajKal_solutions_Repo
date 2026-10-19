@@ -1,0 +1,3 @@
+export function RrWaveTriangle(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 22h-.017a1 1 0 0 1-.857-.514L6.967 4.999l-5.11 8.516a1.001 1.001 0 0 1-1.715-1.029L6.143 2.485A.98.98 0 0 1 7.017 2a1 1 0 0 1 .857.514l9.159 16.487 5.109-8.516a1 1 0 1 1 1.715 1.029l-6 10a1 1 0 0 1-.857.485Z" /></svg>;
+}

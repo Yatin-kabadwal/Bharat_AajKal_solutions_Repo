@@ -1,0 +1,3 @@
+export function SrDrawer(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22.038 14h-20V8H11v1a1 1 0 0 0 2 0V8h9.038zm0-8V4a4 4 0 0 0-4-4H13v1a1 1 0 0 1-2 0V0H6.038a4 4 0 0 0-4 4v2zM13 16v1a1 1 0 1 1-2 0v-1H2.038v7a1 1 0 1 0 2 0v-1h16v1a1 1 0 1 0 2 0v-7z" /></svg>;
+}

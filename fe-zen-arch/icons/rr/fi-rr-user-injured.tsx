@@ -1,0 +1,3 @@
+export function RrUserInjured(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M6 6c0-3.309 2.691-6 6-6a5.96 5.96 0 0 1 3.283.984L8 6a4 4 0 0 0 8 0h-4.635l5.397-3.636A5.96 5.96 0 0 1 18 6c0 3.309-2.691 6-6 6S6 9.309 6 6m14 16v1a1 1 0 1 1-2 0v-1c0-3.309-2.691-6-6-6a6 6 0 0 0-.708.046L12.781 22h2.22a1 1 0 1 1 0 2H6c-1.299 0-2-1.03-2-2 0-4.411 3.589-8 8-8s8 3.589 8 8M9.373 16.614A6 6 0 0 0 6 22h4.72z" /></svg>;
+}

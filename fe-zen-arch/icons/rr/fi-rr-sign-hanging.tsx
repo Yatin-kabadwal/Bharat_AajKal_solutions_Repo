@@ -1,0 +1,3 @@
+export function RrSignHanging(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 4.418V2h2a1 1 0 0 0 0-2H5C2.243 0 0 2.243 0 5v18a1 1 0 0 0 2 0V5c0-1.654 1.346-3 3-3h2v2.418A5.01 5.01 0 0 0 4 9v6c0 2.757 2.243 5 5 5h10c2.757 0 5-2.243 5-5V9a5.01 5.01 0 0 0-3-4.582M9 2h10v2H9zm13 13c0 1.654-1.346 3-3 3H9c-1.654 0-3-1.346-3-3V9c0-1.654 1.346-3 3-3h10c1.654 0 3 1.346 3 3z" /></svg>;
+}

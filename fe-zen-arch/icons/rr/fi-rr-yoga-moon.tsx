@@ -1,0 +1,3 @@
+export function RrYogaMoon(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 11.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0M18 2v19a1 1 0 1 1-2 0v-7h-5.382l3.276 6.553a1 1 0 0 1-1.789.895l-3.724-7.447H5.617l-3.724 7.447a1 1 0 0 1-1.789-.895L5 10.764C5.783 9.171 7.32 8.203 9.03 8H16V2a1 1 0 0 1 2 0m-2 10v-2H9.472a2.98 2.98 0 0 0-2.683 1.658L6.618 12z" /></svg>;
+}

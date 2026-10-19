@@ -1,0 +1,3 @@
+export function RrLessThanEqual(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 23a1 1 0 0 1-1 1H4a1 1 0 1 1 0-2h16a1 1 0 0 1 1 1m-.605-5.919-14.58-6.262c-.601-.258-.814-.851-.814-1.319s.214-1.062.814-1.319l14.58-6.262a1 1 0 0 0-.789-1.837L5.024 6.343C3.775 6.88 3 8.09 3 9.5s.776 2.62 2.025 3.157l14.581 6.262a1 1 0 1 0 .789-1.837Z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrCircleHalf(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M9.99 24c-.22 0-.44-.02-.65-.07C3.93 22.75 0 17.74 0 12S3.93 1.25 9.33.07c.9-.2 1.83.02 2.55.6C12.59 1.24 13 2.09 13 3v18c0 .91-.41 1.76-1.12 2.33-.54.44-1.21.67-1.9.67Z" /></svg>;
+}

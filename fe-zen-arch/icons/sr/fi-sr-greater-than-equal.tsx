@@ -1,0 +1,3 @@
+export function SrGreaterThanEqual(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20 24H4a1 1 0 1 1 0-2h16a1 1 0 1 1 0 2M4.395 18.919l14.58-6.262C20.224 12.12 21 10.911 21 9.5s-.776-2.62-2.025-3.157L4.395.081a1 1 0 1 0-.789 1.837l14.58 6.262c.601.258.814.851.814 1.319s-.214 1.061-.814 1.319L3.606 17.08a1 1 0 1 0 .79 1.837Z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrPersonSimple(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M9.5 2.5a2.5 2.5 0 1 1 5 0 2.5 2.5 0 0 1-5 0M17 10v3c0 1.474-.81 2.75-2 3.444V23a1 1 0 1 1-2 0v-6h-2v6a1 1 0 1 1-2 0v-6.556C7.81 15.75 7 14.474 7 13v-3c0-2.206 1.794-4 4-4h2c2.206 0 4 1.794 4 4m-2 0c0-1.103-.897-2-2-2h-2c-1.103 0-2 .897-2 2v3c0 1.103.897 2 2 2h2c1.103 0 2-.897 2-2z" /></svg>;
+}

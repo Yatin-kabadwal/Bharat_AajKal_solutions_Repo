@@ -1,0 +1,3 @@
+export function RrBalcony(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 10h-1V5c0-2.757-2.243-5-5-5H9C6.243 0 4 2.243 4 5v5H3c-1.654 0-3 1.346-3 3v6c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5v-6c0-1.654-1.346-3-3-3M6 12h2.5v10H6zm4.5 0h3v10h-3zm5 0H18v10h-2.5zM9 2h6c1.654 0 3 1.346 3 3v5H6V5c0-1.654 1.346-3 3-3M2 19v-6a1 1 0 0 1 1-1h1v9.816A3 3 0 0 1 2 19m20 0a3 3 0 0 1-2 2.816V12h1a1 1 0 0 1 1 1z" /></svg>;
+}

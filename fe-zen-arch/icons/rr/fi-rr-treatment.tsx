@@ -1,0 +1,3 @@
+export function RrTreatment(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M9 9a1 1 0 0 1 1-1h1V7a1 1 0 0 1 2 0v1h1a1 1 0 0 1 0 2h-1v1a1 1 0 0 1-2 0v-1h-1a1 1 0 0 1-1-1m7 5H8a1 1 0 0 0 0 2h8a1 1 0 0 0 0-2m-4 4H8a1 1 0 0 0 0 2h4a1 1 0 0 0 0-2m9-11v12a5.006 5.006 0 0 1-5 5H8a5.006 5.006 0 0 1-5-5V7a5.006 5.006 0 0 1 5-5h.171A3.01 3.01 0 0 1 11 0h2a3.01 3.01 0 0 1 2.829 2H16a5.006 5.006 0 0 1 5 5m-2 0a3 3 0 0 0-3-3h-1a1 1 0 0 1-1-1 1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1 1 1 0 0 1-1 1H8a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3z" /></svg>;
+}

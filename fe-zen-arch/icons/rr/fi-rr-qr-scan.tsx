@@ -1,0 +1,3 @@
+export function RrQrScan(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M24 12a1 1 0 0 1-1 1H1a1 1 0 0 1 0-2h22a1 1 0 0 1 1 1M7 22H5c-1.654 0-3-1.346-3-3v-2a1 1 0 0 0-2 0v2c0 2.757 2.243 5 5 5h2a1 1 0 0 0 0-2m16-6a1 1 0 0 0-1 1v2c0 1.654-1.346 3-3 3h-2a1 1 0 0 0 0 2h2c2.757 0 5-2.243 5-5v-2a1 1 0 0 0-1-1M19 0h-2a1 1 0 0 0 0 2h2c1.654 0 3 1.346 3 3v2a1 1 0 0 0 2 0V5c0-2.757-2.243-5-5-5M1 8a1 1 0 0 0 1-1V5c0-1.654 1.346-3 3-3h2a1 1 0 0 0 0-2H5C2.243 0 0 2.243 0 5v2a1 1 0 0 0 1 1" /></svg>;
+}

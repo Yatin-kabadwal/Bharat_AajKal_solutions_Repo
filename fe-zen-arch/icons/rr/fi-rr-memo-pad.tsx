@@ -1,0 +1,3 @@
+export function RrMemoPad(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 0H7C4.243 0 2 2.243 2 5v14c0 2.757 2.243 5 5 5h10c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5M7 2h10c1.654 0 3 1.346 3 3H4c0-1.654 1.346-3 3-3m10 20H7c-1.654 0-3-1.346-3-3V7h16v12c0 1.654-1.346 3-3 3m0-11a1 1 0 0 1-1 1H8a1 1 0 1 1 0-2h8a1 1 0 0 1 1 1m-4 4a1 1 0 0 1-1 1H8a1 1 0 1 1 0-2h4a1 1 0 0 1 1 1" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrBookMedical(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M10 10a1 1 0 0 1 1-1h2V7a1 1 0 1 1 2 0v2h2a1 1 0 1 1 0 2h-2v2a1 1 0 1 1-2 0v-2h-2a1 1 0 0 1-1-1m12-5v14c0 2.757-2.243 5-5 5H6c-2.206 0-4-1.794-4-4V5c0-2.757 2.243-5 5-5h10c2.757 0 5 2.243 5 5m-5-3H8v14h12V5c0-1.654-1.346-3-3-3M4 5v11.537A4 4 0 0 1 6 16V2.172A3 3 0 0 0 4 5m16 14v-1H6c-1.103 0-2 .897-2 2s.897 2 2 2h11c1.654 0 3-1.346 3-3" /></svg>;
+}

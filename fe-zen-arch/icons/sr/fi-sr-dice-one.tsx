@@ -1,0 +1,3 @@
+export function SrDiceOne(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 0H5a5.006 5.006 0 0 0-5 5v14a5.006 5.006 0 0 0 5 5h14a5.006 5.006 0 0 0 5-5V5a5.006 5.006 0 0 0-5-5m-7 13a1 1 0 1 1 1-1 1 1 0 0 1-1 1" /></svg>;
+}

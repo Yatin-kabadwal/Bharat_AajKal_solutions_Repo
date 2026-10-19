@@ -1,0 +1,3 @@
+export function RrChessRookAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 18V8.829A3.01 3.01 0 0 0 21 6V3a3 3 0 0 0-3-3h-1a3 3 0 0 0-2 .766A3 3 0 0 0 13 0h-2a3 3 0 0 0-2 .766A3 3 0 0 0 7 0H6a3 3 0 0 0-3 3v3a3.01 3.01 0 0 0 2 2.829V18a3 3 0 0 0 0 6h14a3 3 0 0 0 0-6M6 7a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 0 2 0V3a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v1a1 1 0 0 0 2 0V3a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1 1 1 0 0 0-1 1v10H7V8a1 1 0 0 0-1-1m13 15H5a1 1 0 0 1 0-2h14a1 1 0 0 1 0 2m-9-10v-2a2 2 0 0 1 4 0v2a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1" /></svg>;
+}

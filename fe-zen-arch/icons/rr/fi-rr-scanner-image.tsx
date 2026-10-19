@@ -1,0 +1,3 @@
+export function RrScannerImage(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M22.202 15.662 3.64.231a1 1 0 0 0-1.279 1.538L18.278 15H4c-2.206 0-4 1.794-4 4v1c0 2.206 1.794 4 4 4h16c2.206 0 4-1.794 4-4v-1a4 4 0 0 0-1.798-3.338M22 20a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-1a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2zm-16-.5a1.5 1.5 0 1 1-3.001-.001A1.5 1.5 0 0 1 6 19.5m4 0a1.5 1.5 0 1 1-3.001-.001A1.5 1.5 0 0 1 10 19.5" /></svg>;
+}

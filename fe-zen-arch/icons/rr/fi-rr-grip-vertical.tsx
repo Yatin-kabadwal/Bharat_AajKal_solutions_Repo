@@ -1,0 +1,3 @@
+export function RrGripVertical(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M17 0h-2a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V3c0-1.654-1.346-3-3-3m1 4h-2V2h1c.552 0 1 .449 1 1zm1 5h-4a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1m-1 4h-2v-2h2zm1 5h-4a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h2c1.654 0 3-1.346 3-3v-2a1 1 0 0 0-1-1m-1 3c0 .551-.448 1-1 1h-1v-2h2zM9 0H7C5.346 0 4 1.346 4 3v2a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1M8 4H6V3c0-.551.448-1 1-1h1zm1 5H5a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1m-1 4H6v-2h2zm1 5H5a1 1 0 0 0-1 1v2c0 1.654 1.346 3 3 3h2a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1m-1 4H7c-.552 0-1-.449-1-1v-1h2z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrGrate(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 0H5C2.243 0 0 2.243 0 5v14c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m3 5v6h-4V2h1c1.654 0 3 1.346 3 3m-11 8v9H8v-9zm-3-2V2h3v9zm5 2h3v9h-3zm0-2V2h3v9zM5 2h1v9H2V5c0-1.654 1.346-3 3-3M2 19v-6h4v9H5c-1.654 0-3-1.346-3-3m17 3h-1v-9h4v6c0 1.654-1.346 3-3 3" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function SrCocktailAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="m14.869 12.888 8.173-7.551c2.076-1.783.479-5.448-2.2-5.337H3.156A3.17 3.17 0 0 0 .13 4H17a1 1 0 0 1 0 2H1.675l7.462 6.894A4.23 4.23 0 0 0 11 13.87V22H7a1 1 0 0 0 0 2h10a1 1 0 0 0 0-2h-4v-8.131a4.25 4.25 0 0 0 1.869-.981" /></svg>;
+}

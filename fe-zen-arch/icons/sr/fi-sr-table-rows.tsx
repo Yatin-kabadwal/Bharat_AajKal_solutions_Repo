@@ -1,0 +1,3 @@
+export function SrTableRows(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M5 22c-2.757 0-5-2.243-5-5V7c0-2.757 2.243-5 5-5zm2-11h17V7c0-2.757-2.243-5-5-5H7zm0 2v9h12c2.757 0 5-2.243 5-5v-4z" /></svg>;
+}

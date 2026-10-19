@@ -1,0 +1,3 @@
+export function RrTrashCanPlus(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M16 14a1 1 0 0 1-1 1h-2v2a1 1 0 1 1-2 0v-2H9a1 1 0 1 1 0-2h2v-2a1 1 0 1 1 2 0v2h2a1 1 0 0 1 1 1m6-9a1 1 0 0 1-1 1h-1v13c0 2.757-2.243 5-5 5H9c-2.757 0-5-2.243-5-5V6H3a1 1 0 1 1 0-2h3.101A5.01 5.01 0 0 1 11 0h2a5.01 5.01 0 0 1 4.899 4H21a1 1 0 0 1 1 1M8.172 4h7.656A3 3 0 0 0 13 2h-2a3 3 0 0 0-2.828 2M18 6H6v13c0 1.654 1.346 3 3 3h6c1.654 0 3-1.346 3-3z" /></svg>;
+}

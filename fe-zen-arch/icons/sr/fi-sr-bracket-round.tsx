@@ -1,0 +1,3 @@
+export function SrBracketRound(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M14 24a.999.999 0 0 0 .62-1.78c-.09-.07-4.63-3.84-4.63-10.22s4.59-10.18 4.64-10.22c.43-.35.5-.98.15-1.41a.99.99 0 0 0-1.4-.15C13.16.4 8.01 4.61 8.01 12c0 7.4 5.16 11.61 5.38 11.78.18.15.41.22.62.22Z" /></svg>;
+}

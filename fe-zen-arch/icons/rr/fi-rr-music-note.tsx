@@ -1,0 +1,3 @@
+export function RrMusicNote(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M20 0h-2.5A4.505 4.505 0 0 0 13 4.5v9.761A5.48 5.48 0 0 0 9.5 13C6.468 13 4 15.468 4 18.5S6.468 24 9.5 24s5.5-2.468 5.5-5.5v-14C15 3.121 16.121 2 17.5 2H20a1 1 0 1 0 0-2M9.5 22C7.57 22 6 20.43 6 18.5S7.57 15 9.5 15s3.5 1.57 3.5 3.5S11.43 22 9.5 22" /></svg>;
+}

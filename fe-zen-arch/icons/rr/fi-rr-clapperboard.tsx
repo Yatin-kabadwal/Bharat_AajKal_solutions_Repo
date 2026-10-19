@@ -1,0 +1,3 @@
+export function RrClapperboard(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 1H5C2.243 1 0 3.243 0 6v12c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V6c0-2.757-2.243-5-5-5m0 2q.102 0 .203.008L15.211 7h-3.422l4-4zm-6.039 0-4 4H5.442l4.093-4zM2 6c0-1.654 1.346-3 3-3h1.674L2.596 7H2zm20 12c0 1.654-1.346 3-3 3H5c-1.654 0-3-1.346-3-3V9h20zm0-11h-3.961l3.1-3.1A3 3 0 0 1 22 6z" /></svg>;
+}

@@ -1,0 +1,3 @@
+export function RrUserInterfaceUi(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 0H5C2.243 0 0 2.243 0 5v14c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m3 19c0 1.654-1.346 3-3 3H5c-1.654 0-3-1.346-3-3V5c0-1.654 1.346-3 3-3h14c1.654 0 3 1.346 3 3zM18 8v8a1 1 0 0 1-2 0V8a1 1 0 0 1 2 0m-4 0v5c0 2.206-1.794 4-4 4s-4-1.794-4-4V8a1 1 0 0 1 2 0v5c0 1.103.897 2 2 2s2-.897 2-2V8a1 1 0 0 1 2 0" /></svg>;
+}

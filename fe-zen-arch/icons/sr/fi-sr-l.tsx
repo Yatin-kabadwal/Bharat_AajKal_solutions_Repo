@@ -1,0 +1,3 @@
+export function SrL(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M21 24H7c-2.757 0-5-2.243-5-5V1a1 1 0 0 1 2 0v18c0 1.654 1.346 3 3 3h14a1 1 0 1 1 0 2" /></svg>;
+}

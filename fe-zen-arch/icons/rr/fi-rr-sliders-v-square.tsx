@@ -1,0 +1,3 @@
+export function RrSlidersVSquare(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M19 0H5C2.243 0 0 2.243 0 5v14c0 2.757 2.243 5 5 5h14c2.757 0 5-2.243 5-5V5c0-2.757-2.243-5-5-5m3 19c0 1.654-1.346 3-3 3H5c-1.654 0-3-1.346-3-3V5c0-1.654 1.346-3 3-3h14c1.654 0 3 1.346 3 3zM11 9a1 1 0 0 1-1 1H9v8a1 1 0 1 1-2 0v-8H6a1 1 0 1 1 0-2h1V6a1 1 0 1 1 2 0v2h1a1 1 0 0 1 1 1m8 6a1 1 0 0 1-1 1h-1v2a1 1 0 1 1-2 0v-2h-1a1 1 0 1 1 0-2h1V6a1 1 0 1 1 2 0v8h1a1 1 0 0 1 1 1" /></svg>;
+}

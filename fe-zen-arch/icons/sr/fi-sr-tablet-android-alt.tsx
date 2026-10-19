@@ -1,0 +1,3 @@
+export function SrTabletAndroidAlt(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M3 16V5c0-2.757 2.243-5 5-5h8c2.757 0 5 2.243 5 5v11zm18 2v1c0 2.757-2.243 5-5 5H8c-2.757 0-5-2.243-5-5v-1zm-7 3a1 1 0 0 0-1-1h-2a1 1 0 1 0 0 2h2a1 1 0 0 0 1-1" /></svg>;
+}

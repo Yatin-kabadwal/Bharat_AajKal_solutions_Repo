@@ -1,0 +1,3 @@
+export function RrBigDrop(props: React.SVGProps<SVGSVGElement>) {
+  return <svg viewBox="0 0 24 24" fill="currentColor" {...props}><path d="M23 9h-1V7c0-2.206-1.794-4-4-4h-3L13.385.573a1.957 1.957 0 0 0-2.769 0L9.001 3h-3c-2.206 0-4 1.794-4 4v2H1a1 1 0 0 0 0 2h7v11H6a1 1 0 0 0 0 2h12a1 1 0 0 0 0-2h-2V11h7a1 1 0 0 0 0-2m-9 13h-4V11h4zm6-13h-2V8a1 1 0 0 0-2 0v1h-3V8a1 1 0 0 0-2 0v1H8V8a1 1 0 0 0-2 0v1H4V7c0-1.103.897-2 2-2h12c1.103 0 2 .897 2 2z" /></svg>;
+}
